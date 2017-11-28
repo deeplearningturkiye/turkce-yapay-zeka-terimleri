@@ -1,0 +1,1 @@
+# turkce-yapay-zeka-terimleri
