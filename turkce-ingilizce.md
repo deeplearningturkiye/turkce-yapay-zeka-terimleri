@@ -50,7 +50,7 @@
 *  ayrıt: edge
 *  azalımlı: decremental
 
-   B  
+ B
 
 *  bağ: link
 *  bağımsız ve özdeşçe dağılmış: iid
