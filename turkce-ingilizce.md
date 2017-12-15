@@ -32,7 +32,7 @@
 *  ardışık: cascade
 *  artçı: posthoc
 *  artı: positive
-*   rtık: residual
+*  artık: residual
 *  artık \(değişken\): slack \(variable\)
 *  artımlı: incremental
 *  asal: canonical
@@ -52,7 +52,7 @@
 
    B  
 
-*   bağ: link
+*  bağ: link
 *  bağımsız ve özdeşçe dağılmış: iid
 *  bağımsızlık: independence
 *  bağlanım: regression
