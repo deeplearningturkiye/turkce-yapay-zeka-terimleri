@@ -30,7 +30,8 @@ A
 * autoassociator : özilişkilendirici
 * automaton : özdevinir
 * axiom : belit
-* B
+
+B
 
 * backup : geriye taşıma
 * backward : geriye doğru
@@ -473,7 +474,8 @@ K
 
 *    quadratic: karesel, ikinci dereceden
 *  quantization: nicemleme
-*  query: sorgu 
+*  query: sorgu
+ 
 
    R  
 
