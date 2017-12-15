@@ -1,6 +1,6 @@
 **Deep Learning Türkiye** topluluğu tarafından hazırlanan **Türkçe Yapay Zeka Terimleri** sayfasına hoşgeldiniz.
 
-Çalışmaya **Prof.Dr.Ethem Alpaydın**'ın **Yapay Öğrenme** isimli kitabının arkasında yer alan **terimler sözüğü** temel alınarak başlanılmıştır. Değerli hocamıza bu sözlüğü _kullanım izni verdiği için_ _teşekkür ederiz_.
+Çalışmaya **Prof.Dr.Ethem Alpaydın**'ın **Yapay Öğrenme** isimli kitabının arkasında yer alan **terimler sözüğü** temel alınarak başlanılmıştır. Değerli hocamıza _kullanım izni verdiği için_ _teşekkür ederiz_.
 
 **Faydalanılan Kaynaklar**
 
