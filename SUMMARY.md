@@ -1,7 +1,7 @@
 # Summary
 
 * [Giriş](README.md)
-* [Türkçe - İngilizce ](turkce-i-ngilizce.md)
+* **Türkçe - İngilizce**
   * [A](a.md)
   * [B](b.md)
 
