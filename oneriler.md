@@ -112,3 +112,11 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 **condense** kelimesinin karşılığı TDK'da **yoğunlaştırmak** olarak geçmektedir. Sözlükte ise **seyrek** olarak çevrildiği görülmektedir.
 
 ÖNERİ: `yoğun`
+
+## epoch
+- [ ] TÜBA
+- [x] TDK
+
+**epoch** TDK'da **devre** olarak geçmektedir. Sözlük'te ise **dönem** olarak çevrilmiştir. Makine öğrenmesinde bir verisetinin tamamının bir kere ağdan geçiş yapmasına İngilizcede **epoch** denilmektedir.
+
+ÖNERİ: `devir`
