@@ -1,42 +1,61 @@
+# SÖZLÜKTE YER ALMAYANLAR
 Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlükte yer almamaktadır.
+
+## adversarial
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: `düşman, hasım, çekişmeli`
 
 ## autoencoder
 - [ ] TÜBA
 - [ ] TDK
 
-**Encoder** kelimesinin karşılığı TDK sözlüğünde **kodlayıcı** olarak belirtilmektedir. 
+**Encoder** kelimesinin TDK sözlüğünde karşılığı **kodlayıcı** olarak belirtilmektedir. 
 
-`autoencoder = otokodlayıcı`
+ÖNERİ: `otokodlayıcı`
 
 ## bounding box
 - [ ] TÜBA
 - [ ] TDK
 
-`bounding box = sınırlayıcı kutu`
+ÖNERİ: `sınırlayıcı kutu`
 
 ## capsule
 - [x] TÜBA
 - [x] TDK
 
-`capsule = kapsül`
+ÖNERİ: `kapsül`
 
 ## coarse grain
 - [x] TÜBA
 - [x] TDK
 
-`coarse grain = iri taneli`
+ÖNERİ: `iri taneli`
 
 ## dropout
-- [ ] TÜBA
+- [x] TÜBA
 - [ ] TDK
 
+**dropout** TÜBA'da **güç sönümü** olarak geçmektedir. Yapay zeka alanında elektronikle ilgili bu çevirinin uygun olmadığı düşünülmektedir.
+
+ÖNERİ: `seyreltme`
+
 ## dynamic routing
-- [ ] TÜBA
-- [ ] TDK
+- [x] TÜBA
+- [x] TDK
+
+**routing*** kelimesi TÜBA'da **rotalama** TDK'da ise **yöneltilme** olarak çevrilmiştir.
+
+ÖNERİ: `dinamik yönlendirme, dinamik rotalama`
 
 ## feature representation 
 - [ ] TÜBA
 - [ ] TDK
+
+**feature** TDK'da **özellik** TÜBA'da ise **öznitelik** olarak çevrilmiştir.
+
+ÖNERİ: `öznitelik temsili`
 
 ## fine grain 
 - [ ] TÜBA
@@ -45,6 +64,17 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 ## fine tuning
 - [ ] TÜBA
 - [ ] TDK
+
+## generative adversarial networks
+- [ ] TÜBA
+- [ ] TDK
+
+25. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SIU) ve Bozkırda Yapay Öğrenme Yaz Okulu 2017'de 2014 yılında Ian Goodfellow tarafından keşfedilen Generative Adversarial Networks (GAN), Türkçeye Çekişmeli Üretici Ağlar olarak çevrilmiştir.
+
+[1] : https://byoyo2017.vision.cs.hacettepe.edu.tr/lectures.html
+[2]: https://www.openconf.org/siu2017/modules/request.php?module=oc_program&action=summary.php&id=655
+
+ÖNERİ: `çekişmeli üretici ağlar`
 
 ## hyperparameter
 - [ ] TÜBA
@@ -73,3 +103,15 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 ## squashing function
 - [ ] TÜBA
 - [ ] TDK
+
+# SÖZLÜKTE YER ALAN FAKAT DEĞİŞTİRİLMESİ GEREKENLER
+Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
+
+## condensed
+- [ ] TÜBA
+- [x] TDK
+
+**condense** kelimesinin karşılığı TDK'da **yoğunlaştırmak** olarak geçmektedir. Sözlükte ise **seyrek** olarak çevrildiği görülmektedir.
+
+ÖNERİ: `yoğun`
+
