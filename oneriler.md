@@ -69,10 +69,8 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TÜBA
 - [ ] TDK
 
-25. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı (SIU) ve Bozkırda Yapay Öğrenme Yaz Okulu 2017'de 2014 yılında Ian Goodfellow tarafından keşfedilen Generative Adversarial Networks (GAN), Türkçeye Çekişmeli Üretici Ağlar olarak çevrilmiştir.
-
-[1] : https://byoyo2017.vision.cs.hacettepe.edu.tr/lectures.html
-[2]: https://www.openconf.org/siu2017/modules/request.php?module=oc_program&action=summary.php&id=655
+[IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı 2017 (SIU)](https://www.openconf.org/siu2017/modules/request.php?module=oc_program&action=summary.php&id=655
+) ve [Bozkırda Yapay Öğrenme Yaz Okulu 2017](https://byoyo2017.vision.cs.hacettepe.edu.tr/lectures.html)'de 2014 yılında Ian Goodfellow tarafından keşfedilen Generative Adversarial Networks (GAN), Türkçeye Çekişmeli Üretici Ağlar olarak çevrilmiştir.
 
 ÖNERİ: `çekişmeli üretici ağlar`
 
@@ -104,7 +102,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TÜBA
 - [ ] TDK
 
-# SÖZLÜKTE YER ALAN FAKAT DEĞİŞTİRİLMESİ GEREKENLER
+# SÖZLÜKTE YER ALAN FAKAT DEĞİŞTİRİLMESİ ÖNERİLENLER
 Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
 
 ## condensed
@@ -114,4 +112,3 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 **condense** kelimesinin karşılığı TDK'da **yoğunlaştırmak** olarak geçmektedir. Sözlükte ise **seyrek** olarak çevrildiği görülmektedir.
 
 ÖNERİ: `yoğun`
-
