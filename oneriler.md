@@ -90,6 +90,10 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TÜBA
 - [ ] TDK
 
+## perplexity
+- [ ] TÜBA
+- [ ] TDK
+
 ## pooling
 - [ ] TÜBA
 - [ ] TDK
@@ -99,10 +103,6 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TDK
 
 ## squashing function
-- [ ] TÜBA
-- [ ] TDK
-
-## perplexity
 - [ ] TÜBA
 - [ ] TDK
 
