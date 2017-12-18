@@ -33,6 +33,14 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 ÖNERİ: `iri taneli`
 
+## convolutional neural networks
+- [x] TÜBA
+- [x] TDK
+
+Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
+
+ÖNERİ: `evrişimli sinir ağları`
+
 ## dropout
 - [x] TÜBA
 - [ ] TDK
