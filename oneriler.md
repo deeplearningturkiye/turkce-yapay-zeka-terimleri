@@ -102,6 +102,10 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TÜBA
 - [ ] TDK
 
+## perplexity
+- [ ] TÜBA
+- [ ] TDK
+
 # SÖZLÜKTE YER ALAN FAKAT DEĞİŞTİRİLMESİ ÖNERİLENLER
 Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
 
