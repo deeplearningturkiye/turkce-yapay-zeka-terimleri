@@ -121,7 +121,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 ÖNERİ: `devir`
 
-## np-complete
+## np-complete
 
 **np-complete** ingilizce tanımı: problems that are solved in polynomial time by a non-deterministic turing machine. Türkçe çevirisinde ise "çokterimli zamanda bulunamaz" şeklinde geçiyor. Fakat bu yanlış bir kullanım. NP sınıfı çoğu zaman "non-polynomial time" şeklinde karıştırılıyor. Fakat asıl açılımı "non-deterministic polynomial time". Biz henüz bu sınıftaki problemlerin çokterimli zamanda bulunamayacağını kanıtlayamadık.
 
