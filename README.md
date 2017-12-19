@@ -2,8 +2,20 @@
 
 Çalışmaya **Prof.Dr.Ethem Alpaydın**'ın **Yapay Öğrenme** isimli kitabının arkasında yer alan **terimler sözüğü** temel alınarak başlanılmıştır. Değerli hocamıza _kullanım izni verdiği için_ _teşekkür ederiz_.
 
-Çalışmanın Kitap Hali: https://deeplearningturkiye.gitbooks.io/turkce-yapay-zeka-terimleri/content/
-Github: https://github.com/deeplearningturkiye/turkce-yapay-zeka-terimleri/
+> **Türkçe Yapay Zeka Terimleri** projesi güzel bir fikir. Kitabımın arkasındaki sözlüğü temel almanızda hiçbir sorun yok. 
+>
+>Birkaç öneri:
+>
+>- **TÜBA** ve **TBD**’nin kendi sözlükleri var internet üstünde. Onlardan da faydalanabilirsiniz.
+>- **SİU** kurultaylarını biliyorsunuzdur, onların bildiri kitaplarına bakın. Onlarda yakın zamanlı terimler için karşılıklar kullanılmış olabilir.
+>- En önemlisi şu ki  Türkçe karşılık sözcük yazmak yanında Türkçe sözcüğün örnek cümlelerde kullanımını da vermek gerekir. Bazen iyi sanılan bir sözcük cümle içinde sırıtabiliyor. Hem sözcükler kullanım örnekleriyle daha kolay benimsenecektir.
+>
+>Başarılar.
+>
+>**Prof.Dr.Ethem Alpaydın**
+
+* Çalışmanın Kitap Hali: https://deeplearningturkiye.gitbooks.io/turkce-yapay-zeka-terimleri/content/
+* Github: https://github.com/deeplearningturkiye/turkce-yapay-zeka-terimleri/
 
 ## Katkı Sağlama Rehberi
 #### Github Üzerinden
@@ -16,7 +28,7 @@ E-posta adresimiz deeplearningturkiye (at) gmail . com
 
 * Yapay Öğrenme - Prof.Dr.Ethem Alpaydın [https://www.cmpe.boun.edu.tr/~ethem/i2ml2e\_tr/](https://www.cmpe.boun.edu.tr/~ethem/i2ml2e_tr/)
 * Türkçe Bilim Terimleri Sözlüğü - [http://www.tubaterim.gov.tr/](http://www.tubaterim.gov.tr/)
-* Türk Dil Kurumu - [http://www.tdk.gov.tr/](http://www.tdk.gov.tr/)
+* Türk Dil Kurumu Bilim ve Sanat Terimleri Sözlüğü - [http://www.tdk.gov.tr/](http://www.tdk.gov.tr/)
 
 
 
