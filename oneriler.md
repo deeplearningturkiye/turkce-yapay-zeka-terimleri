@@ -98,6 +98,10 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
+## perplexity
+- [ ] TÜBA
+- [ ] TDK
+
 ## pooling
 - [ ] TÜBA
 - [ ] TDK
@@ -128,3 +132,13 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 **epoch** TDK'da **devre** olarak geçmektedir. Sözlük'te ise **dönem** olarak çevrilmiştir. Makine öğrenmesinde bir verisetinin tamamının bir kere ağdan geçiş yapmasına İngilizcede **epoch** denilmektedir.
 
 ÖNERİ: `devir`
+
+## np-complete
+
+**np-complete** ingilizce tanımı: problems that are solved in polynomial time by a non-deterministic turing machine. Türkçe çevirisinde ise "çokterimli zamanda bulunamaz" şeklinde geçiyor. Fakat bu yanlış bir kullanım. NP sınıfı çoğu zaman "non-polynomial time" şeklinde karıştırılıyor. Fakat asıl açılımı "non-deterministic polynomial time". Biz henüz bu sınıftaki problemlerin çokterimli zamanda bulunamayacağını kanıtlayamadık.
+
+NP-complete sınıfını NP sınıfından ayıran fark ise NP sınıfındaki her problemi çokterimli zaman kullanarak NP-complete sınıfındaki bir probleme eşleyebilmemiz. Bu nedenle NP-complete sınıfındaki herhangi bir probleme çokterimli zamanda bir çözüm üretirsek, P=NP doğru oluyor.
+
+Bu sınıfların harf kısaltmaları aynı şekilde kullanılabilir. Doğal sayı kümesine N dediğimiz gibi.
+
+ÖNERİ: `NP-bütün`
