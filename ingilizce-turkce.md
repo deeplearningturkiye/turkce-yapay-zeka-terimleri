@@ -54,6 +54,7 @@ B
 * blocking : bölükleme
 * boolean : mantıksal
 * bootstrap : rastgele örnekleme
+* bounding box: sınırlayıcı kutu (nesneyi içine alan en küçük çerçeve)
 * branch and bound: dallan ve sınırla
 * breadth-first : genişlik öncelikli
 * bump : tümsek
@@ -305,10 +306,10 @@ K
 * k-nearest neighbor: en yakın k komşu
 * knowledge: bilgi
 
-  L
+L
 
+* landmark detection: karakteristik nokta saptama (görüntü işlemede gerekli dayanak noktalarını bulma)
 * latent: saklı
-
 * lateral: yanal
 * lattice: kafes
 * layer: katman
@@ -322,336 +323,335 @@ K
 * link: bağ
 * loading: yükleme
 * local: yerel
+* localization: yerseme (yerini saptama, lokalizasyon)
 * logistic: s biçimli
 * logit: ters s
 * loop: döngü
 * loss: yitim
 
-  M  
+M  
 
 * majority: çoğunluk
-*  map: harita
-*  mapping: eşleme
-*  margin: kenar payı
-*  marginalize: tümleştirme
-*  matching: eşleştirme
-*  matrix: dizey
-*  maximization: büyütme
-*  maximum a posteriori \(map\): en büyük sonsal \(ebs\)
-*  maximum likelihood \(ml\): en büyük olabilirlik \(ebo\)
-*  max-product: büyütme çarpma
-*  mean: ortalama
-*  measure: ölçüt
-*  mechanism: düzenek
-*  meiosis: eşeyli bölünme
-*  membership: üyelik
-*  memory: bellek
-*  message: ileti
-*  methodology: yöntembilim
-*  metric: ölçev
-*  minimization: küçültme
-*  missing: eksik
-*  mixture: karışım
-*  modality: kip
-*  mode \(of a density\): tepe \(dağılımın\)
-*  model: model
-*  moralization: ahlaklıla¸stırma
-*  multinomial \(distribution\): katlıterimli \(dağılım\)
-*  multiple: çoklu
-*  multistage: çok aşamalı
-*  multivariate: çok değişkenli
-*  mutually: exclusive ayrık
+* map: harita
+* mapping: eşleme
+* margin: kenar payı
+* marginalize: tümleştirme
+* matching: eşleştirme
+* matrix: dizey
+* maximization: büyütme
+* maximum a posteriori \(map\): en büyük sonsal \(ebs\)
+* maximum likelihood \(ml\): en büyük olabilirlik \(ebo\)
+* max-product: büyütme çarpma
+* mean: ortalama
+* measure: ölçüt
+* mechanism: düzenek
+* meiosis: eşeyli bölünme
+* membership: üyelik
+* memory: bellek
+* message: ileti
+* methodology: yöntembilim
+* metric: ölçev
+* minimization: küçültme
+* missing: eksik
+* mixture: karışım
+* modality: kip
+* mode \(of a density\): tepe \(dağılımın\)
+* model: model
+* moralization: ahlaklıla¸stırma
+* multinomial \(distribution\): katlıterimli \(dağılım\)
+* multiple: çoklu
+* multistage: çok aşamalı
+* multivariate: çok değişkenli
+* mutually: exclusive ayrık
 * 
 
-   N  
+N  
 
-*  naive: saf
-*  negative: eksi
-*  network: ağ
-*  neuron: sinir hücresi
-*  node: düğüm
-*  noise: gürültü
-*  nonlinear: doğrusal olmayan
-*  nonnegative: eksi olmayan
-*  nonparametric: dağılımdan bağımsız
-*  norm: büyüklük
-*  normal: normal
-*  normalization: normalleştirme
-*  np-complete: çokterimli zamanda bulunamaz
-*  nuisance factor: zararlı etken
-*  null hypothesis: sıfır denencesi
-*  numeric: sayısal
+* naive: saf
+* negative: eksi
+* network: ağ
+* neuron: sinir hücresi
+* node: düğüm
+* noise: gürültü
+* nonlinear: doğrusal olmayan
+* nonnegative: eksi olmayan
+* nonparametric: dağılımdan bağımsız
+* norm: büyüklük
+* normal: normal
+* normalization: normalleştirme
+* np-complete: çokterimli zamanda bulunamaz
+* nuisance factor: zararlı etken
+* null hypothesis: sıfır denencesi
+* numeric: sayısal
 
-   O  
+O  
 
-*    oblique: yatık
-*  observable: gözlenebilir
-*  observation: gözlem
-*  occam’s razor: occam’ın usturası
-*  occluded: örtülü
-*  offline: çevrimdışı
-*  off-policy: politikasız
-*  omnivariate: tüm değişkenli
-*  one-sided: tek yanlı
-*  online: çevrimiçi
-*  on-policy: politikalı
-*  optimal: en iyi
-*  optimization: iyileme
-*  or: veya
-*  order \(of a polynomial\): derece \(çokterimlinin\)
-*  order \(statistics\): sıra \(istatistikleri\)
-*  origin \(of axes\): sıfır noktası \(eksenlerin\)
-*  oscillate: salınım
-*  outcome: sonuç
-*  outlier: aykırı
-*  overfitting: aşırı öğrenme
-*  overtraining: aşırı eğitme
-* 
+* oblique: yatık
+* observable: gözlenebilir
+* observation: gözlem
+* occam’s razor: occam’ın usturası
+* occluded: örtülü
+* offline: çevrimdışı
+* off-policy: politikasız
+* omnivariate: tüm değişkenli
+* one-sided: tek yanlı
+* online: çevrimiçi
+* on-policy: politikalı
+* optimal: en iyi
+* optimization: iyileme
+* or: veya
+* order \(of a polynomial\): derece \(çokterimlinin\)
+* order \(statistics\): sıra \(istatistikleri\)
+* origin \(of axes\): sıfır noktası \(eksenlerin\)
+* scillate: salınım
+* outcome: sonuç
+* outlier: aykırı
+* overfitting: aşırı öğrenme
+* overtraining: aşırı eğitme
 
-   P  
+P  
 
-*    paired: eşli
-*  pairing: eşleme
-*  pairwise: ikili
-*  parallel: koşut
-*  parametric: dağılıma bağlı
-*  parent \(node\): ebeveyn \(düğüm\)
-*  parity: eşlik
-*  partial: kısmi, kısmen
-*  passive: edilgen
-*  path: yol
-*  pattern: örüntü
-*  pedigree: soy
-*  perceptron: algılayıcı
-*  performance: başarım
-*  phone: sesbirimcik
-*  phoneme: sesbirim
-*  phylogenetic tree: soy ağacı
-*  piecewise: parçalı
-*  pixel: imge noktası
-*  plasticity: yoğrukluk
-*  plate: tabaka
-*  plot: çizim
-*  plurality: çoğulluk
-*  policy: politika
-*  polychotomizer: çoklu ayırıcı
-*  polyhedron: çokyüzlü
-*  polynomial: çokterimli
-*  polytree: çoklu ağaç
-*  positive: artı
-*  positive definite: kesin artı
-*  positive semidefinite: yarı kesin artı
-*  posterior: sonsal olasılık
-*  posthoc: artçı
-*  postpruning: geç budama
-*  potential function: gerilim işlevi
-*  power: üst
-*  power function: güç işlevi
-*  precision: kesinlik
-*  predicate: belirtim
-*  prediction: öngörü
-*  predictive: öngörücü
-*  prepruning: erken budama
-*  primal: asal
-*  principal: temel
-*  principle: ilke
-*  prior: önsel
-*  probabilistic: olasılıksal
-*  probability: olasılık
-*  probably: olası
-*  procedure: yordam
-*  projection: izdüşüm
-*  propagation: yayılım
-*  propositional \(rule\): önermeli \(kural\)
-*  prototype: asıl örnek
-*  pruning: budama
-*  pseudocode: örnek program
-*  purity: saflık
-*  pursuit: izleme
-* 
+* paired: eşli
+* pairing: eşleme
+* pairwise: ikili
+* parallel: koşut
+* parametric: dağılıma bağlı
+* parent \(node\): ebeveyn \(düğüm\)
+* parity: eşlik
+* partial: kısmi, kısmen
+* passive: edilgen
+* path: yol
+* pattern: örüntü
+* pedigree: soy
+* perceptron: algılayıcı
+* performance: başarım
+* phone: sesbirimcik
+* phoneme: sesbirim
+* phylogenetic tree: soy ağacı
+* piecewise: parçalı
+* pixel: imge noktası
+* plasticity: yoğrukluk
+* plate: tabaka
+* plot: çizim
+* plurality: çoğulluk
+* policy: politika
+* polychotomizer: çoklu ayırıcı
+* polyhedron: çokyüzlü
+* polynomial: çokterimli
+* polytree: çoklu ağaç
+* positive: artı
+* positive definite: kesin artı
+* positive semidefinite: yarı kesin artı
+* posterior: sonsal olasılık
+* posthoc: artçı
+* postpruning: geç budama
+* potential function: gerilim işlevi
+* power: üst
+* power function: güç işlevi
+* precision: kesinlik
+* predicate: belirtim
+* prediction: öngörü
+* predictive: öngörücü
+* prepruning: erken budama
+* primal: asal
+* principal: temel
+* principle: ilke
+* prior: önsel
+* probabilistic: olasılıksal
+* probability: olasılık
+* probably: olası
+* procedure: yordam
+* projection: izdüşüm
+* propagation: yayılım
+* propositional \(rule\): önermeli \(kural\)
+* prototype: asıl örnek
+* pruning: budama
+* pseudocode: örnek program
+* purity: saflık
+* pursuit: izleme
 
-   Q  
 
-*    quadratic: karesel, ikinci dereceden
-*  quantization: nicemleme
-*  query: sorgu
+Q  
+
+* quadratic: karesel, ikinci dereceden
+* quantization: nicemleme
+* query: sorgu
  
+R  
 
-   R  
+* radial: dairesel
+* random: rastgele
+* random: rastsal
+* randomization: rastsalla¸stırma
+* range: açıklık
+* rank \(of a matrix\): kerte \(dizeyin\)
+* rank \(test\): sıra \(sınaması\)
+* real-time: gerçek zamanlı
+* reasoning: akıl yürütme
+* recall: anma
+* receiver: alıcı
+* receptive field: algı alanı
+* reciprocal: ters
+* recognition: tanıma
+* reconstruction: geri çatma
+* recurrent: özyineli
+* recursive: özçağrılı
+* redundancy: fazlalık
+* reference: dayanak
+* references: kaynaklar
+* region: alan
+* regression: bağlanım
+* regressogram: bağlanım çiziti
+* regularization: düzenlileştirme
+* reinforcement: pekiştirme
+* reject: ret
+* relative: görece
+* relevance: ilgililik
+* replication: çoğaltma
+* repository: veri tabanı
+* representation: gösterim
+* residual: artık
+* response: tepki
+* retrieval: erişim
+* reverse engineering: tersine mühendislik
+* reward: ödül
+* ridge: sırt
+* risk: risk
+* robust: gürbüz
+* row: satır
+* rule: kural
+* running: akan
+   
+S  
 
-*    radial: dairesel
-*  random: rastgele
-*  random: rastsal
-*  randomization: rastsalla¸stırma
-*  range: açıklık
-*  rank \(of a matrix\): kerte \(dizeyin\)
-*  rank \(test\): sıra \(sınaması\)
-*  real-time: gerçek zamanlı
-*  reasoning: akıl yürütme
-*  recall: anma
-*  receiver: alıcı
-*  receptive field: algı alanı
-*  reciprocal: ters
-*  recognition: tanıma
-*  reconstruction: geri çatma
-*  recurrent: özyineli
-*  recursive: özçağrılı
-*  redundancy: fazlalık
-*  reference: dayanak
-*  references: kaynaklar
-*  region: alan
-*  regression: bağlanım
-*  regressogram: bağlanım çiziti
-*  regularization: düzenlileştirme
-*  reinforcement: pekiştirme
-*  reject: ret
-*  relative: görece
-*  relevance: ilgililik
-*  replication: çoğaltma
-*  repository: veri tabanı
-*  representation: gösterim
-*  residual: artık
-*  response: tepki
-*  retrieval: erişim
-*  reverse engineering: tersine mühendislik
-*  reward: ödül
-*  ridge: sırt
-*  risk: risk
-*  robust: gürbüz
-*  row: satır
-*  rule: kural
-*  running: akan
+* sample: örneklemek \(f\), örneklem \(i\)
+* scalar: sayıl
+* scale: ölçek
+* scatter: saçılım
+* scene: görüntü
+* Schedule: zaman çizelgesi
+* Scree: kayşat
+* Search: arama
+* Section: bölüm
+* Segmentation: bölütleme
+* Selection: seçim
+* self-organizing: özörgütlemeli
+* semiparametric: dağılıma yarı bağlı
+* sensitivity: duyarlılık
+* sensor: alıcı
+* sequence: dizi
+* sequential: sırayla
+* set: küme
+* shaded: gölgeli
+* share: paylaşmak
+* shatter: tuz buz etmek
+* short term: kısa soluklu
+* sigmoid sigmoid: \(s işlevi\)
+* sign: işaret
+* significance: anlamlılık
+* simulation: benzetim
+* simultaneous: eş zamanlı
+* singly \(connected\): tekli \(bağlı\)
+* singular: tekil
+* slack \(variable\): artık \(değişken\)
+* smooth: düzleştirme
+* smoother: düzleştirici
+* soft: eşiksiz
+* softmax \(function\): eşiksiz en büyük işlevi
+* sort: sıralamak
+* spam: istenmeyen elektronik posta
+* span: kapsamak
+* sparse: seyrek
+* spatial: uzamsal
+* specific: özgül
+* specificity: özgüllük
+* spectral: izgesel
+* spectrum: izge
+* spline: eğri
+* split: bölme
+* spread: yayılım
+* stable: kararlı
+* stacking: yığma
+* stepsize: adım büyüklüğü
+* stimulation: dürtü
+* stochastic: rastgele
+* strategy: yordam
+* stratification: katmanla¸stırma
+* stress: gerilim
+* string: dizi
+* structure: yapı
+* stump: ağaççık
+* subgraph: alt çizge
+* subset: altküme
+* subspace: altuzay
+* sum-product: toplam çarpım
+* supervised: gözetimli
+* support: destek
+* surface: yüzey
+* switching: geçişli
+* symbol: simge
+* symmetric: bakı¸sımlı
+* symptom: belirti
+* synchronization: eşzamanlama
+* system: dizge
 
-   S  
+T  
 
-*    sample: örneklemek \(f\), örneklem \(i\)
-*  scalar: sayıl
-*  scale: ölçek
-*  scatter: saçılım
-*  scene: görüntü
-*  Schedule: zaman çizelgesi
-*  Scree: kayşat
-*  Search: arama
-*  Section: bölüm
-*  Segmentation: bölütleme
-*  Selection: seçim
-*  self-organizing: özörgütlemeli
-*  semiparametric: dağılıma yarı bağlı
-*  sensitivity: duyarlılık
-*  sensor: alıcı
-*  sequence: dizi
-*  sequential: sırayla
-*  set: küme
-*  shaded: gölgeli
-*  share: paylaşmak
-*  shatter: tuz buz etmek
-*  short term: kısa soluklu
-*  sigmoid sigmoid: \(s işlevi\)
-*  sign: işaret
-*  significance: anlamlılık
-*  simulation: benzetim
-*  simultaneous: eş zamanlı
-*  singly \(connected\): tekli \(bağlı\)
-*  singular: tekil
-*  slack \(variable\): artık \(değişken\)
-*  smooth: düzleştirme
-*  smoother: düzleştirici
-*  soft: eşiksiz
-*  softmax \(function\): eşiksiz en büyük işlevi
-*  sort: sıralamak
-*  spam: istenmeyen elektronik posta
-*  span: kapsamak
-*  sparse: seyrek
-*  spatial: uzamsal
-*  specific: özgül
-*  specificity: özgüllük
-*  spectral: izgesel
-*  spectrum: izge
-*  spline: eğri
-*  split: bölme
-*  spread: yayılım
-*  stable: kararlı
-*  stacking: yığma
-*  stepsize: adım büyüklüğü
-*  stimulation: dürtü
-*  stochastic: rastgele
-*  strategy: yordam
-*  stratification: katmanla¸stırma
-*  stress: gerilim
-*  string: dizi
-*  structure: yapı
-*  stump: ağaççık
-*  subgraph: alt çizge
-*  subset: altküme
-*  subspace: altuzay
-*  sum-product: toplam çarpım
-*  supervised: gözetimli
-*  support: destek
-*  surface: yüzey
-*  switching: geçişli
-*  symbol: simge
-*  symmetric: bakı¸sımlı
-*  symptom: belirti
-*  synchronization: eşzamanlama
-*  system: dizge
+* table: çizelge
+* tangent: teğet
+* template: şablon
+* temporal: zamansal
+* term: terim
+* terminal: uç
+* test: sınama
+* theory: kuram
+* threshold: eşik
+* time delay: zaman gecikmeli
+* time series: zaman dizisi
+* topographic: yerbetimsel
+* topological: ilingesel
+* trace: iz
+* trade-off: ödünleşim
+* trajectory: gezinge
+* transcribe: çevriyazmak
+* transition: geçiş
+* transpose: devrik
+* traveling salesman: gezgin satıcı
+* trellis: kafes
+* two-sided: iki yanlı
+   
+U
 
-   T  
+* unbiased: yansız
+* unconstrained: kısıtlanmamış
+* underfitting: eksik öğrenme
+* unfold: açılmış
+* uniform \(distribution\): tekdüze \(dağılım\)
+* univariate: tek değişkenli
+* unobservable: gözlenemeyen
+* unsupervised: gözetimsiz
+* utility: fayda
 
-*    table: çizelge
-*  tangent: teğet
-*  template: şablon
-*  temporal: zamansal
-*  term: terim
-*  terminal: uç
-*  test: sınama
-*  theory: kuram
-*  threshold: eşik
-*  time delay: zaman gecikmeli
-*  time series: zaman dizisi
-*  topographic: yerbetimsel
-*  topological: ilingesel
-*  trace: iz
-*  trade-off: ödünleşim
-*  trajectory: gezinge
-*  transcribe: çevriyazmak
-*  transition: geçiş
-*  transpose: devrik
-*  traveling salesman: gezgin satıcı
-*  trellis: kafes
-*  two-sided: iki yanlı
+V  
 
-   U  
+* validation: geçerleme
+* variance: değişinti
+* variational: değişimsel
+* vector: yöney
+* version: sürüm
+* vigilance: tetiklik
+* virtual: sanal
+* voting: oylama
 
-*    unbiased: yansız
-*  unconstrained: kısıtlanmamış
-*  underfitting: eksik öğrenme
-*  unfold: açılmış
-*  uniform \(distribution\): tekdüze \(dağılım\)
-*  univariate: tek değişkenli
-*  unobservable: gözlenemeyen
-*  unsupervised: gözetimsiz
-*  utility: fayda
+W  
 
-   V  
-
-*   validation: geçerleme
-*  variance: değişinti
-*  variational: değişimsel
-*  vector: yöney
-*  version: sürüm
-*  vigilance: tetiklik
-*  virtual: sanal
-*  voting: oylama
-
-   W  
-
-*  weight: ağırlık
+* weight: ağırlık
 * winner-take-all: kazanan hepsini alır
 * wrapper: dürümcü
 
-   X  
+X  
 
-*   xor: dışlamalı veya
+* xor: dışlamalı veya
 
 
 
