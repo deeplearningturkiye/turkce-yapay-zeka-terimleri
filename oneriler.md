@@ -87,16 +87,20 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TDK
 
 ## landmark detection 
-- [ ] TÜBA
+- [x] TÜBA
 - [ ] TDK
+
+ÖNERİ: `karakteristik nokta saptama`
 
 ## latent concept 
 - [ ] TÜBA
 - [ ] TDK
 
 ## localization 
-- [ ] TÜBA
+- [x] TÜBA
 - [ ] TDK
+
+ÖNERİ: `yerseme (yerini saptama, lokalizasyon)`
 
 ## perplexity
 - [ ] TÜBA
