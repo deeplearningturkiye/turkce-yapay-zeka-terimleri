@@ -73,6 +73,14 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
+## framework
+- [x] TÜBA
+- [x] TDK
+
+**framework** TDK'da ve TÜBA'da **çatı** şeklinde çevrilmiştir.
+
+ÖNERİ: `çatı`
+
 ## generative adversarial networks
 - [ ] TÜBA
 - [ ] TDK
