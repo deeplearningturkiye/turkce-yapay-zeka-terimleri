@@ -90,6 +90,14 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `çekişmeli üretici ağlar`
 
+## ground truth
+- [ ] TÜBA
+- [ ] TDK
+
+**ground truth** TDK'da **kesin referans** TÜBA'da **gerçek referans değer** şeklinde çevrilmiştir.
+
+ÖNERİ: `gerçek referans değer`
+
 ## hyperparameter
 - [ ] TÜBA
 - [ ] TDK
