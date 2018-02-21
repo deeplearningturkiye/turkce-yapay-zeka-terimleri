@@ -27,6 +27,12 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 ÖNERİ: `kapsül`
 
+## computer vision
+- [x] TÜBA
+- [ ] TDK
+
+ÖNERİ: `bilgisayarlı görme, bilgisayarlı görü`
+
 ## coarse grain
 - [x] TÜBA
 - [x] TDK
