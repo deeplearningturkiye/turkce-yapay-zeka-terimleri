@@ -168,3 +168,12 @@ NP-complete sınıfını NP sınıfından ayıran fark ise NP sınıfındaki her
 Bu sınıfların harf kısaltmaları aynı şekilde kullanılabilir. Doğal sayı kümesine N dediğimiz gibi.
 
 ÖNERİ: `NP-bütün`
+
+
+
+RNN(Recurrent Nerual Network)
+RNN 1980’ de geliştirildi. Makine Öğrenmesinde Derin Öğrenme algoritmalarında biri olarak kullanılır. Tanım olarak
+, ardışık bilgileri kullanan modeldir. Kullanım Alanları; Konuşma tanıma, Makine Çevirisi vb.
+ÖNERİ: "Tekrarlayan Sinir Ağları"
+
+
