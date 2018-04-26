@@ -124,6 +124,12 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `yerseme (yerini saptama, lokalizasyon)`
 
+## padding 
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: `dolgulama`
+
 ## perplexity
 - [ ] TÜBA
 - [ ] TDK
