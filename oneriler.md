@@ -63,6 +63,12 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `dinamik yönlendirme, dinamik rotalama`
 
+## embedding
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: `özyerleşik` - Hacettepe Unv. Multimedia Information Retrieval Lab önerisidir.
+
 ## feature representation 
 - [ ] TÜBA
 - [ ] TDK
