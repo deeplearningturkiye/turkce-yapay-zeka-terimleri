@@ -6,7 +6,7 @@ sense;mana;
 word sense disambiguation;belirsizlik giderme;problem adı
 meaning;anlam;
 multi-sense;çoklu mana;
-similarity;benzerlik;kelime, cümle, paragraf, doküman benzerliği
+similarity;benzerlik;kelime/cümle/paragraf/doküman benzerliği
 similar;benzer;
 relatedness;ilişkisellik ;kelimelerin ilişkiselliği
 textual;metinsel;
