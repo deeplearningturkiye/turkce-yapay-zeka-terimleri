@@ -144,6 +144,14 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
+## predictor
+- [x] TÜBA
+- [x] TDK
+
+**predictor** TDK'da **yordamlayıcı** TÜBA'da **bağımsız değişken** şeklinde çevrilmiştir.
+
+ÖNERİ: `bağımsız değişken` 
+
 ## semantics
 - [ ] TÜBA
 - [ ] TDK
