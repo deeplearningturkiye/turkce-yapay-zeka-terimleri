@@ -37,7 +37,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [x] TÜBA
 - [x] TDK
 
-ÖNERİ: `iri taneli`
+ÖNERİ: `iri taneli` (Her biri çok fazla veri tutan daha az nesne)
 
 ## convolutional neural networks
 - [x] TÜBA
@@ -46,6 +46,12 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `evrişimli sinir ağları`
+
+## collaborative Filtering
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ:'işbirlikçi filtreleme'
 
 ## dropout
 - [x] TÜBA
@@ -77,9 +83,11 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `öznitelik temsili`
 
-## fine grain 
+## fine grained 
 - [ ] TÜBA
 - [ ] TDK
+
+ÖNERİ: İnce Taneli(Her biri daha az veri tutan daha fazla nesne)
 
 ## fine tuning
 - [ ] TÜBA
@@ -93,6 +101,13 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `çatı`
 
+## full precision
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: `tam hassasiyet`
+
+
 ## generative adversarial networks
 - [ ] TÜBA
 - [ ] TDK
@@ -102,13 +117,26 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `çekişmeli üretici ağlar`
 
+## gradient descend
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ:'Gradyan İnişi'
+
 ## ground truth
 - [ ] TÜBA
 - [ ] TDK
 
 **ground truth** TDK'da **kesin referans** TÜBA'da **gerçek referans değer** şeklinde çevrilmiştir.
 
+
 ÖNERİ: `gerçek referans değer`
+
+## half precision
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: yarım hassasiyet
 
 ## hyperparameter
 - [ ] TÜBA
@@ -130,6 +158,18 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `yerseme (yerini saptama, lokalizasyon)`
 
+## long short term memory (LTSM)
+- [x] TÜBA
+- [ ] TDK
+
+ÖNERİ: `Uzun-Kısa Vadeli Bellek`
+
+## mean average precision
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: `ortalama kesinlik,ortalama hassasiyet`
+
 ## padding 
 - [ ] TÜBA
 - [ ] TDK
@@ -140,28 +180,85 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
+ÖNERİ:karışıklık
+
 ## pooling
+- [x] TÜBA
+- [ ] TDK
+**pooling** kelimesinin karşılığı TÜBA'da **ortaklama** olarak geçmektedir.
+
+ÖNERİ: `örnekleme`
+
+## random forest
 - [ ] TÜBA
 - [ ] TDK
 
-## semantics
+ÖNERİ: rastgele orman
+
+## routing-by-agreement
 - [ ] TÜBA
 - [ ] TDK
+
+ÖNERİ: anlaşarak yönlendirme
+
+## state of art
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: 'güncel olan en iyi durum'
 
 ## squashing function
 - [ ] TÜBA
 - [ ] TDK
 
+ÖNERİ: Sıkıştırma Fonksiyonu
+
+## softmax
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: 'türevlenebilir maximum,yumuşatılmış maximum'
+
+
+## tutorial
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: Örnek uygulamalar, eğitim dökümanları
+
+## up sampling
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: Sık Örnekleme
+
+## vanishing gradient
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: Kaybolan Eğim (türevlerin 0'a gitmesi 0 olması, bir fonksiyonun türevinin 0 vermesi) 
+
+
+
 # SÖZLÜKTE YER ALAN FAKAT DEĞİŞTİRİLMESİ ÖNERİLENLER
 Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
 
-## condensed
+## condense
 - [ ] TÜBA
 - [x] TDK
 
 **condense** kelimesinin karşılığı TDK'da **yoğunlaştırmak** olarak geçmektedir. Sözlükte ise **seyrek** olarak çevrildiği görülmektedir.
 
 ÖNERİ: `yoğun`
+
+## confusion matrix
+- [X] TÜBA
+- [ ] TDK
+
+**confusion matrix** kelimesinin karşılığı TÜBA'da **hata matrisi** olarak geçmektedir. 
+
+ÖNERİ: `sınıflandırma matrisi`
+
 
 ## epoch
 - [ ] TÜBA
@@ -181,6 +278,12 @@ Bu sınıfların harf kısaltmaları aynı şekilde kullanılabilir. Doğal say�
 
 ÖNERİ: `NP-bütün`
 
+## semantics
+- [X] TÜBA
+- [ ] TDK
+**semantics** kelimesinin karşılığı TÜBA'da **anlambilimsel ağ** olarak geçmektedir.
+
+ÖNERİ: Anlambilim
 
 
 RNN(Recurrent Nerual Network)
