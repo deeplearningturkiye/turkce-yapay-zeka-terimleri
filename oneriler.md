@@ -75,6 +75,16 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `özyerleşik` - Hacettepe Unv. Multimedia Information Retrieval Lab önerisidir.
 
+
+## ensemble methods
+- [ ] TÜBA
+- [ ] TDK
+ÖNERİ:Topluluk Metotları
+
+Örnek: 
+Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel modeli birleştiren bir makine öğrenmesi tekniğidir.
+
+
 ## feature representation 
 - [ ] TÜBA
 - [ ] TDK
