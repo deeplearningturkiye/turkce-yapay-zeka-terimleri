@@ -89,9 +89,6 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: İnce Taneli(Her biri daha az veri tutan daha fazla nesne)
 
-## fine tuning
-- [ ] TÜBA
-- [ ] TDK
 
 ## framework
 - [x] TÜBA
@@ -141,6 +138,8 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 ## hyperparameter
 - [ ] TÜBA
 - [ ] TDK
+
+ÖNERİ: Üst değişken
 
 ## landmark detection 
 - [x] TÜBA
@@ -267,6 +266,14 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 **epoch** TDK'da **devre** olarak geçmektedir. Sözlük'te ise **dönem** olarak çevrilmiştir. Makine öğrenmesinde bir verisetinin tamamının bir kere ağdan geçiş yapmasına İngilizcede **epoch** denilmektedir.
 
 ÖNERİ: `devir`
+
+## fine tuning
+- [X] TÜBA
+- [ ] TDK
+
+**fine tuning** TÜBA'da **ince ayar** olarak geçmektedir. Fakat wikipedia da derin öğrenme alanındaki tanımı gereği ince ayar çevirisi bu sözcüğü tam anlamıyla karşılamamaktadır.
+Wikipedia: Belirli bir görev için halihazırda eğitilmiş bir ağ modelini alma ve bunu ikinci bir benzer görevi gerçekleştirmek için kullanma işlemidir.
+ÖNERİ: Öğrenme Transferi
 
 ## np-complete
 
