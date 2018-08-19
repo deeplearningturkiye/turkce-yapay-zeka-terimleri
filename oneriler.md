@@ -274,6 +274,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 **fine tuning** TÜBA'da **ince ayar** olarak geçmektedir. Fakat wikipedia da derin öğrenme alanındaki tanımı gereği ince ayar çevirisi bu sözcüğü tam anlamıyla karşılamamaktadır.
 
 Wikipedia: Belirli bir görev için halihazırda eğitilmiş bir ağ modelini alma ve bunu ikinci bir benzer görevi gerçekleştirmek için kullanma işlemidir.
+
 ÖNERİ: Öğrenme Transferi
 
 ## np-complete
