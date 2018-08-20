@@ -264,6 +264,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 ## bias
 - [x] TÜBA
 - [ ] TDK
+
 **bias** kelimesinin karşılığı TÜBA'da **yanlılık** olarak geçmektedir.
 
 ÖNERİ: yanlılık değeri
