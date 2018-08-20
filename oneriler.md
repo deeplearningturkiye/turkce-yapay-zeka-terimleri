@@ -15,6 +15,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 ÖNERİ: `otokodlayıcı`
 
+
 ## bounding box
 - [ ] TÜBA
 - [ ] TDK
@@ -259,6 +260,14 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 
 # SÖZLÜKTE YER ALAN FAKAT DEĞİŞTİRİLMESİ ÖNERİLENLER
 Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
+
+## bias
+- [x] TÜBA
+- [ ] TDK
+**bias** kelimesinin karşılığı TÜBA'da **yanlılık** olarak geçmektedir.
+
+ÖNERİ: yanlılık değeri
+
 
 ## condense
 - [ ] TÜBA
