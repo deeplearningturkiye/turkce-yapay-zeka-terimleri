@@ -177,7 +177,15 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: `ortalama kesinlik,ortalama hassasiyet`
+ÖNERİ: ortalama kesinlik,ortalama hassasiyet
+
+## Multi Layer Perceptron(MLP)
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: çok katmanlı algılayıcı
+
+
 
 ## padding 
 - [ ] TÜBA
