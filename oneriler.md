@@ -192,7 +192,8 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: `dolgulama`
+ÖNERİ: dolgulama
+
 
 ## perplexity
 - [ ] TÜBA
@@ -212,6 +213,13 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [ ] TDK
 
 ÖNERİ: rastgele orman
+
+## rectified linear unit (RELU)
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: doğrultulmuş lineer ünite
+
 
 ## routing-by-agreement
 - [ ] TÜBA
