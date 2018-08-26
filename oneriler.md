@@ -180,6 +180,22 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 
 ÖNERİ: `yerseme (yerini saptama, lokalizasyon)`
 
+## local minimum
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: yerel minimum
+
+## local maximum
+
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: yerel maksimum
+
+
+
+
 ## long short term memory (LTSM)
 - [x] TÜBA
 - [ ] TDK
