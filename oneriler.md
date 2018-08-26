@@ -125,6 +125,14 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 
 ÖNERİ: `çekişmeli üretici ağlar`
 
+
+## global optimum
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: Mutlak En İyi
+
+
 ## gradient descend
 - [ ] TÜBA
 - [ ] TDK
