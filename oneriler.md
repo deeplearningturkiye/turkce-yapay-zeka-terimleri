@@ -136,7 +136,9 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 ## gradient descend
 - [ ] TÜBA
 - [ ] TDK
+
 Gradyan(yön türevi): Artımın en çok olduğu yere doğru yönelmiş bir vektör alanını verir.
+
 Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksiyonun gradyanının **negatifiyle** orantılı adımlar atılır.
 
 ÖNERİ:'Gradyan İnişi'
