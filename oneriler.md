@@ -174,6 +174,14 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
+
+## lineer regression
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: doğrusal  bağıntı
+
+
 ## localization 
 - [x] TÜBA
 - [ ] TDK
@@ -194,6 +202,11 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 ÖNERİ: yerel maksimum
 
 
+## logistic regression
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: yapısal bağıntı
 
 
 ## long short term memory (LTSM)
@@ -213,7 +226,6 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: çok katmanlı algılayıcı
-
 
 
 ## padding 
@@ -272,6 +284,19 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: 'türevlenebilir maximum,yumuşatılmış maximum'
+
+## standardize
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ:  tek tipleştirmek, belirli bir forma getirmek
+
+
+## standardization
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: standartlaştırma, tek tip yapma
 
 
 ## tutorial
