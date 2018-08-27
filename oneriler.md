@@ -94,6 +94,13 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 
 ÖNERİ: `öznitelik temsili`
 
+## feed-forward
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: ileri besleme
+
+
 ## fine grained 
 - [ ] TÜBA
 - [ ] TDK
