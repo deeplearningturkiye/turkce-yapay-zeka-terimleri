@@ -255,6 +255,16 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 
 ÖNERİ: `örnekleme`
 
+## predictor
+- [x] TÜBA
+- [x] TDK
+
+ **predictor** TDK'da **yordamlayıcı** TÜBA'da **bağımsız değişken** şeklinde çevrilmiştir.
+ 
+ ÖNERİ: `bağımsız değişken` 
+
+
+
 ## random forest
 - [ ] TÜBA
 - [ ] TDK
