@@ -40,6 +40,13 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 ÖNERİ: `iri taneli` (Her biri çok fazla veri tutan daha az nesne)
 
+## cofinite
+
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: sonlu tamamlayıcı
+
 ## convolutional neural networks
 - [x] TÜBA
 - [x] TDK
