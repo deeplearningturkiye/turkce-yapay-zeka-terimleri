@@ -506,6 +506,7 @@ S-Ş
 *  sınama: test
 *  sınıf: class
 *  sınıflandırıcı: classifier
+*  **sınırlayıcı kutu: bounding box**
 *  sıra \(istatistikleri\): order \(statistics\)
 *  sıra \(sınaması\): rank \(test\)
 *  sıralamak: sort
