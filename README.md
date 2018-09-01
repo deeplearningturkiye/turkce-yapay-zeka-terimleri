@@ -23,6 +23,7 @@ Orjinal sözlük üzerine yeni kelime önerileri ile katkı verenlerin listesi
 - [asfix](https://github.com/asfix)
 - [ayyucekizrak](https://github.com/ayyucekizrak)
 - [deeplearningturkiye](https://github.com/deeplearningturkiye)
+- [fuatbeser](https://github.com/fuatbeser)
 - [iremsusavas](https://github.com/iremsusavas)
 - [ishakdolek](https://github.com/ishakdolek)
 - [meltemiatay](https://github.com/meltemiatay)
