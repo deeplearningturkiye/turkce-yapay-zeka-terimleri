@@ -1,4 +1,4 @@
-   A  
+A  
 
 *  açgözlü: greedy
 *  açıklık: range
@@ -50,7 +50,7 @@
 *  ayrıt: edge
 *  azalımlı: decremental
 
- B
+B
 
 *  bağ: link
 *  bağımsız ve özdeşçe dağılmış: iid
@@ -98,9 +98,9 @@
 *  büyütme: maximization
 *  büyütme çarpma: max-product
 
-   C-Ç  
+C-Ç  
 
-*    cepheden: frontal
+*  cepheden: frontal
 *  çapa: anchor
 *  çapraz düzensizlik: cross-entropy
 *  çapraz geçerleme: cross-validation
@@ -138,9 +138,9 @@
 *  çözümsel: analytical 
 *  çubukçizit: histogram
 
-   D  
+D  
 
-*    dağılım: distribution 
+*  dağılım: distribution 
 *  dağılıma bağlı: parametric
 *  dağılıma yarı bağlı: semiparametric 
 *  dağılımdan: bağımsız: nonparametric 
@@ -187,9 +187,9 @@
 *  düzleştirici: smoother 
 *  düzleştirme: smooth
 
-   E  
+E  
 
-*    ebeveyn \(düğüm\): parent \(node\)
+*  ebeveyn \(düğüm\): parent \(node\)
 *  edilgen: passive 
 *  eğer-ise: if-then
 *  eğim: gradient 
@@ -243,14 +243,14 @@
 *  evrişim: convolution
 *  eylem: action
 
-   F  
+F  
 
-*    fayda: utility 
+*  fayda: utility 
 *  fazlalık: redundancy
 
-   G  
+G  
 
-*    geç budama: postpruning
+*  geç budama: postpruning
 *  geçerleme: validation
 *  geçiş: transition
 *  geçişli: switching
@@ -292,7 +292,7 @@
 *  gürültü: noise
 *  güven: confidence
 
-   H  
+H  
 
 *  harita: map
 *  hata: error
@@ -303,7 +303,7 @@
 *  hizalama: alignment
 *  hizip: clique
 
-   I-İ  
+I-İ  
 
 *  ıraksama: divergence
 *  iç: internal
@@ -340,7 +340,7 @@
 *  izgesel: spectral
 *  izleme: pursuit
 
-   K  
+K  
 
 *  k kat: k fold
 *  k merkezli: k-means
@@ -397,7 +397,7 @@
 *  küme: ensemble
 *  küme: set
 
-   M-N  
+M-N  
 
 *  mantıksal: Boolean
 *  menteşe \(yitimi\): hinge \(loss\)
@@ -410,7 +410,7 @@
 *  normal: normal
 *  normalleştirme: normalization
 
-   O-Ö  
+O-Ö  
 
 *  Occam'ın: usturası: Occam's razor
 *  olabilirlik: likelihood
@@ -457,7 +457,7 @@
 *  özyineli: recurrent
 *  özyöney: eigenvector
 
-   P-R  
+P-R  
 
 *  parçalı: piecewise
 *  paylaşmak: share
@@ -473,7 +473,7 @@
 *  ret: reject
 *  risk: risk
 
-   S-Ş  
+S-Ş  
 
 *  S biçimli: logistic
 *  sabit: constant
@@ -535,7 +535,7 @@
 *  şehir içi uzaklık: city-block distance
 *  şekil: figure
 
-   T  
+T  
 
 *  tabaka: plate
 *  taban: base
@@ -567,7 +567,7 @@
 *  tümleyen: complement
 *  tümsek: bump
 
-   U-Ü  
+U-Ü  
 
 *  uç: terminal
 *  uyarlama: adaptation
@@ -581,7 +581,7 @@
 *  üstün—: hyper-
 *  üyelik: membership
 
-   V  
+V  
 
 *  ve: and
 *  ve ötekiler: et al
@@ -589,7 +589,7 @@
 *  veri tabanı: repository
 *  veya: or
 
-   Y  
+Y  
 
 *  yaklaşık: approximate
 *  yaklaşıklama: approximation
@@ -625,7 +625,7 @@
 *  yükleme: loading
 *  yüzey: surface
 
-   Z  
+Z  
 
 *  zaman çizelgesi: schedule
 *  zaman dizisi: time series
@@ -634,10 +634,3 @@
 *  zararlı etken: nuisance factor
 *  zıtlık: contrast
 *  zincir: chain
-
-        
-
-
-
-
-
