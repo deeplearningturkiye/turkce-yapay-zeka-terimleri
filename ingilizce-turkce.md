@@ -305,10 +305,9 @@ K
 * k-nearest neighbor: en yakın k komşu
 * knowledge: bilgi
 
-  L
+L
 
 * latent: saklı
-
 * lateral: yanal
 * lattice: kafes
 * layer: katman
@@ -327,9 +326,9 @@ K
 * loop: döngü
 * loss: yitim
 
-  M  
+M  
 
-* majority: çoğunluk
+*  majority: çoğunluk
 *  map: harita
 *  mapping: eşleme
 *  margin: kenar payı
@@ -361,9 +360,8 @@ K
 *  multistage: çok aşamalı
 *  multivariate: çok değişkenli
 *  mutually: exclusive ayrık
-* 
 
-   N  
+N  
 
 *  naive: saf
 *  negative: eksi
@@ -382,9 +380,9 @@ K
 *  null hypothesis: sıfır denencesi
 *  numeric: sayısal
 
-   O  
+O  
 
-*    oblique: yatık
+*  oblique: yatık
 *  observable: gözlenebilir
 *  observation: gözlem
 *  occam’s razor: occam’ın usturası
@@ -406,11 +404,10 @@ K
 *  outlier: aykırı
 *  overfitting: aşırı öğrenme
 *  overtraining: aşırı eğitme
-* 
 
-   P  
+P  
 
-*    paired: eşli
+*  paired: eşli
 *  pairing: eşleme
 *  pairwise: ikili
 *  parallel: koşut
@@ -468,18 +465,16 @@ K
 *  pseudocode: örnek program
 *  purity: saflık
 *  pursuit: izleme
-* 
 
-   Q  
+Q  
 
-*    quadratic: karesel, ikinci dereceden
+*  quadratic: karesel, ikinci dereceden
 *  quantization: nicemleme
 *  query: sorgu
  
+R  
 
-   R  
-
-*    radial: dairesel
+*  radial: dairesel
 *  random: rastgele
 *  random: rastsal
 *  randomization: rastsalla¸stırma
@@ -522,9 +517,9 @@ K
 *  rule: kural
 *  running: akan
 
-   S  
+S  
 
-*    sample: örneklemek \(f\), örneklem \(i\)
+*  sample: örneklemek \(f\), örneklem \(i\)
 *  scalar: sayıl
 *  scale: ölçek
 *  scatter: saçılım
@@ -595,9 +590,9 @@ K
 *  synchronization: eşzamanlama
 *  system: dizge
 
-   T  
+T  
 
-*    table: çizelge
+*  table: çizelge
 *  tangent: teğet
 *  template: şablon
 *  temporal: zamansal
@@ -620,9 +615,9 @@ K
 *  trellis: kafes
 *  two-sided: iki yanlı
 
-   U  
+U  
 
-*    unbiased: yansız
+*  unbiased: yansız
 *  unconstrained: kısıtlanmamış
 *  underfitting: eksik öğrenme
 *  unfold: açılmış
@@ -632,9 +627,9 @@ K
 *  unsupervised: gözetimsiz
 *  utility: fayda
 
-   V  
+V  
 
-*   validation: geçerleme
+*  validation: geçerleme
 *  variance: değişinti
 *  variational: değişimsel
 *  vector: yöney
@@ -643,15 +638,12 @@ K
 *  virtual: sanal
 *  voting: oylama
 
-   W  
+W  
 
-*  weight: ağırlık
+* weight: ağırlık
 * winner-take-all: kazanan hepsini alır
 * wrapper: dürümcü
 
-   X  
+X  
 
-*   xor: dışlamalı veya
-
-
-
+* xor: dışlamalı veya
