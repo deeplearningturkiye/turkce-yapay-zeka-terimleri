@@ -54,6 +54,7 @@ B
 * blocking : bölükleme
 * boolean : mantıksal
 * bootstrap : rastgele örnekleme
+* **bounding box: sınırlayıcı kutu**
 * branch and bound: dallan ve sınırla
 * breadth-first : genişlik öncelikli
 * bump : tümsek
