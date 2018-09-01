@@ -45,7 +45,7 @@ B
 * belief : inanç
 * benchmark : denek
 * bias : yanlılık
-* bias : unit ek girdi
+* bias unit: ek girdi
 * bin : kutucuk
 * binary : ikili
 * binding : değer atama
