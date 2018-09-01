@@ -17,6 +17,18 @@
 * Çalışmanın Kitap Hali: https://deeplearningturkiye.gitbooks.io/turkce-yapay-zeka-terimleri/content/
 * Github: https://github.com/deeplearningturkiye/turkce-yapay-zeka-terimleri/
 
+### Sözlüğe Katkı Verenler
+Orjinal sözlük üzerine yeni kelime önerileri ile katkı verenlerin listesi
+- [alper111](https://github.com/alper111)
+- [asfix](https://github.com/asfix)
+- [ayyucekizrak](https://github.com/ayyucekizrak)
+- [deeplearningturkiye](https://github.com/deeplearningturkiye)
+- [iremsusavas](https://github.com/iremsusavas)
+- [ishakdolek](https://github.com/ishakdolek)
+- [meltemiatay](https://github.com/meltemiatay)
+- [yavuzKomecoglu](https://github.com/yavuzKomecoglu)
+
+
 ## Katkı Sağlama Rehberi
 #### Github Üzerinden
 [ÖNERİLER](https://github.com/deeplearningturkiye/turkce-yapay-zeka-terimleri/blob/master/oneriler.md) dosyasında gerekli değişiklikleri yapabilirsiniz.
