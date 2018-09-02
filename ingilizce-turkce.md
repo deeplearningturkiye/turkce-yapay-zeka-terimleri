@@ -1,65 +1,65 @@
 A
 
-* action : eylem
-* activation : etkilenim
-* active : etkin
-* acyclic : çevrimsiz
-* adaptation : uyarlama
-* additive : eklemeli
+* action: eylem
+* activation: etkilenim
+* active: etkin
+* acyclic: çevrimsiz
+* adaptation: uyarlama
+* additive: eklemeli
 * **adversarial: çekişmeli**
-* aerodynamics : hava devinim bilimi
-* agent : etmen
-* agglomerative : birleştirmeli
-* algorithm : algoritma
-* alignment : hizalama
-* allele : eş gen
-* analysis : çözümleme
-* analytical : çözümsel
-* analyzer : çözümleyici
-* ancestor : ata
-* anchor : çapa
-* and : ve
-* anneal : tavlamak
-* approximate : yaklaşık
-* approximation : yaklaşıklama
-* arc : ayrıt
-* articulator : eklemleyici
-* association : ilişkilendirme
-* attribute : öznitelik
-* augmented : genişletilmiş
-* authentication : kimlik doğrulama
-* autoassociator : özilişkilendirici
+* aerodynamics: hava devinim bilimi
+* agent: etmen
+* agglomerative: birleştirmeli
+* algorithm: algoritma
+* alignment: hizalama
+* allele: eş gen
+* analysis: çözümleme
+* analytical: çözümsel
+* analyzer: çözümleyici
+* ancestor: ata
+* anchor: çapa
+* and: ve
+* anneal: tavlamak
+* approximate: yaklaşık
+* approximation: yaklaşıklama
+* arc: ayrıt
+* articulator: eklemleyici
+* association: ilişkilendirme
+* attribute: öznitelik
+* augmented: genişletilmiş
+* authentication: kimlik doğrulama
+* autoassociator: özilişkilendirici
 * **autoencoder: otokodlayıcı**
-* automaton : özdevinir
-* axiom : belit
+* automaton: özdevinir
+* axiom: belit
 
 B
 
-* backup : geriye taşıma
-* backward : geriye doğru
-* bag of words : sözcük torbası
-* bandit : kollu kumar makinesi
-* base : taban
-* basis : taban
-* basket : sepet
-* batch : toptan
-* bayesian : bayesçi
-* belief : inanç
-* benchmark : denek
-* bias : yanlılık
+* backup: geriye taşıma
+* backward: geriye doğru
+* bag of words: sözcük torbası
+* bandit: kollu kumar makinesi
+* base: taban
+* basis: taban
+* basket: sepet
+* batch: toptan
+* bayesian: bayesçi
+* belief: inanç
+* benchmark: denek
+* bias: yanlılık
 * bias unit: ek girdi
-* bin : kutucuk
-* binary : ikili
-* binding : değer atama
-* binomial : binom
-* biometrics : biyometri
-* blocking : bölükleme
-* boolean : mantıksal
-* bootstrap : rastgele örnekleme
+* bin: kutucuk
+* binary: ikili
+* binding: değer atama
+* binomial: binom
+* biometrics: biyometri
+* blocking: bölükleme
+* boolean: mantıksal
+* bootstrap: rastgele örnekleme
 * **bounding box: sınırlayıcı kutu**
 * branch and bound: dallan ve sınırla
-* breadth-first : genişlik öncelikli
-* bump : tümsek
+* breadth-first: genişlik öncelikli
+* bump: tümsek
 
 C
 
@@ -68,8 +68,8 @@ C
 * **capsule: kapsül**
 * cascade: ardışık
 * case-based: örnek tabanlı
-* causal :nedensel
-* cause :neden
+* causal: nedensel
+* cause: neden
 * central: limit theorem merkezi limit kuramı
 * chain: zincir
 * chapter: bölüm
@@ -100,7 +100,7 @@ C
 * confidence: güven
 * confusion: \(matrix\) hata \(dizeyi\)
 * conjugate: eşlenik
-* connected :\(graph\) bağlı \(çizge\)
+* connected: \(graph\) bağlı \(çizge\)
 * connection: bağlantı
 * connectivity: bağlantısallık
 * constant: sabit
@@ -168,7 +168,7 @@ D
 * distributed: dağıtık
 * distribution: dağılım
 * divergence: ıraksama
-* diversity : çeşitlilik
+* diversity: çeşitlilik
 * divisive: bölmeli
 * document: belge
 * dot product: iç çarpım
@@ -194,7 +194,7 @@ E
 * encode: gizyazmak
 * encoder: gizyazar
 * ensemble: küme
-* **ensemble methods: Topluluk metotları**
+* **ensemble methods: topluluk metotları**
 * entropy: düzensizlik
 * environment: ortam
 * episode: serüven
@@ -221,8 +221,7 @@ E
 
 F
 
-* factor: çarpan
-* factor: etken
+* factor: (1)çarpan, (2)etken
 * factorial: etkensel
 * feature: öznitelik
 * **feature representation: öznitelik temsili**
@@ -230,7 +229,6 @@ F
 * figure: şekil
 * filter: süzgeç
 * **fine grained: ince taneli**
-
 * finite horizon: sonlu serüven
 * fit: oturtma, uydurma
 * flexible: esnek
@@ -328,6 +326,7 @@ K
 * knowledge: bilgi
 
 L
+
 * **landmark detection: karakteristik nokta saptama**
 * latent: saklı
 * lateral: yanal
@@ -346,10 +345,10 @@ L
 * local: yerel
 * **local minimum: yerel minimum**
 * **localization: yerini saptama**
-* logistic : s biçimli
+* logistic: s biçimli
 * **logistic regression: yapısal bağıntı**
 * logit: ters s
-* **long short term memory (LTSM): Uzun-Kısa Vadeli Bellek**
+* **long short term memory (LTSM): uzun-kısa vadeli bellek**
 * loop: döngü
 * loss: yitim
 
@@ -383,7 +382,7 @@ M
 *  mode \(of a density\): tepe \(dağılımın\)
 *  model: model
 *  moralization: ahlaklıla¸stırma
-* **Multi Layer Perceptron(MLP): çok katmanlı algılayıcı**
+* **multi layer perceptron (MLP): çok katmanlı algılayıcı**
 *  multinomial \(distribution\): katlıterimli \(dağılım\)
 *  multiple: çoklu
 *  multistage: çok aşamalı
@@ -435,6 +434,7 @@ O
 *  overtraining: aşırı eğitme
 
 P  
+
 * **padding: dolgulama**
 *  paired: eşli
 *  pairing: eşleme
@@ -559,12 +559,12 @@ S
 *  scale: ölçek
 *  scatter: saçılım
 *  scene: görüntü
-*  Schedule: zaman çizelgesi
-*  Scree: kayşat
-*  Search: arama
-*  Section: bölüm
-*  Segmentation: bölütleme
-*  Selection: seçim
+*  schedule: zaman çizelgesi
+*  scree: kayşat
+*  search: arama
+*  section: bölüm
+*  segmentation: bölütleme
+*  selection: seçim
 *  self-organizing: özörgütlemeli
 * **semantics: anlambilim**
 *  semiparametric: dağılıma yarı bağlı
@@ -630,7 +630,7 @@ S
 *  system: dizge
 * **squashing function: sıkıştırma fonksiyonu**
 
-T  
+T
 
 *  table: çizelge
 *  tangent: teğet
@@ -681,7 +681,7 @@ V
 *  virtual: sanal
 *  voting: oylama
 
-W  
+W
 
 * weight: ağırlık
 * winner-take-all: kazanan hepsini alır
