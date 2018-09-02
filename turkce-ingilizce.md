@@ -7,7 +7,7 @@ A
 *  adım büyüklüğü: stepsize
 *  ağ: network
 *  ağaç çizit: dendrogram
-*  ağaç yapılı hierarchical
+*  ağaç yapılı: hierarchical
 *  ağaççık: stump
 *  ağırlık: weight
 *  ahlaklılaştırma: moralization
