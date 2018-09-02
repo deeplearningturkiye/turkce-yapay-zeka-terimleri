@@ -17,8 +17,7 @@ A
 *  algı alanı: receptive field
 *  algılayıcı: perceptron
 *  algoritma: algorithm
-*  alıcı: receiver
-*  alıcı: sensor
+*  alıcı: (1)receiver, (2)sensor
 *  alıştırma: exercise
 *  altçizge: subgraph
 *  altküme: subset
@@ -37,8 +36,7 @@ A
 *  artık: residual
 *  artık \(değişken\): slack \(variable\)
 *  artımlı: incremental
-*  asal: canonical
-*  asal: primal
+*  asal: (1)canonical, (2)primal
 *  asıl örnek: prototype
 *  aşırı eğitme: overtraining
 *  aşırı öğrenme: overfitting
