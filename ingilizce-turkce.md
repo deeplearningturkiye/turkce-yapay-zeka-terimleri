@@ -83,7 +83,7 @@ C
 * **coarse grain: iri taneli**
 * code: gizyazı
 * codebook: vector gizyazı yöneyi
-* **cofinite : sonlu tamamlayıcı**
+* **cofinite: sonlu tamamlayıcı**
 * **collaborative filtering: işbirlikçi filtreleme**
 * column: sütun
 * combination: birleşim
