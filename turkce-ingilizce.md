@@ -1,4 +1,4 @@
-A  
+A
 
 *  açgözlü: greedy
 *  açıklık: range
@@ -103,7 +103,7 @@ B
 *  büyütme: maximization
 *  büyütme çarpma: max-product
 
-C-Ç  
+C-Ç
 
 *  cepheden: frontal
 *  çapa: anchor
@@ -135,7 +135,7 @@ C-Ç
 *  çok aşamalı: multistage
 *  çok boyutluluğun laneti: curse of dimensionality 
 *  çok: değişkenli: multivariate
-* **çok katmanlı algılayıcı :multi layer perceptron(MLP)**
+* **çok katmanlı algılayıcı: multi layer perceptron(MLP)**
 *  çoklu: multiple
 *  çoklu ağaç: polytree
 *  çoklu ayırıcı: polychotomizer 
@@ -147,7 +147,7 @@ C-Ç
 *  çözümsel: analytical 
 *  çubukçizit: histogram
 
-D  
+D
 
 *  dağılım: distribution 
 *  dağılıma bağlı: parametric
@@ -200,7 +200,7 @@ D
 *  düzleştirici: smoother 
 *  düzleştirme: smooth
 
-E  
+E
 
 *  ebeveyn \(düğüm\): parent \(node\)
 *  edilgen: passive 
@@ -220,8 +220,8 @@ E
 *  eksik öğrenme: underfitting
 *  elemek: eliminate 
 *  eleştirmen: critic
-*  en büyük: olabilirlik \(EBO\): maximum: likelihood \(ML\) 
-*  en büyük: sonsal \(EBS\): maximum: a posteriori \(MAP\) 
+*  en büyük olabilirlik \(EBO\): maximum likelihood \(ML\) 
+*  en büyük sonsal \(EBS\): maximum a posteriori \(MAP\) 
 *  en iyi: optimal
 *  en yakın k komşu: k-nearest neighbor
 *  erişim: retrieval 
@@ -258,12 +258,12 @@ E
 * **evrişimli sinir ağları: convolutional neural networks**
 *  eylem: action
 
-F  
+F
 
 *  fayda: utility 
 *  fazlalık: redundancy
 
-G  
+G
 
 *  geç budama: postpruning
 *  geçerleme: validation
@@ -310,7 +310,7 @@ G
 *  gürültü: noise
 *  güven: confidence
 
-H  
+H
 
 *  harita: map
 *  hata: error
@@ -321,7 +321,7 @@ H
 *  hizalama: alignment
 *  hizip: clique
 
-I-İ  
+I-İ
 
 *  ıraksama: divergence
 *  iç: internal
@@ -361,7 +361,7 @@ I-İ
 *  izgesel: spectral
 *  izleme: pursuit
 
-K  
+K
 
 *  k kat: k fold
 *  k merkezli: k-means
@@ -422,7 +422,7 @@ K
 *  küme: ensemble
 *  küme: set
 
-M-N  
+M-N
 
 *  mantıksal: Boolean
 *  menteşe \(yitimi\): hinge \(loss\)
@@ -436,7 +436,7 @@ M-N
 *  normal: normal
 *  normalleştirme: normalization
 
-O-Ö  
+O-Ö
 
 *  Occam'ın: usturası: Occam's razor
 *  olabilirlik: likelihood
@@ -488,7 +488,7 @@ O-Ö
 *  özyineli: recurrent
 *  özyöney: eigenvector
 
-P-R  
+P-R
 
 *  parçalı: piecewise
 *  paylaşmak: share
@@ -505,7 +505,7 @@ P-R
 *  ret: reject
 *  risk: risk
 
-S-Ş  
+S-Ş
 
 *  S biçimli: logistic
 *  sabit: constant
@@ -572,7 +572,7 @@ S-Ş
 *  şehir içi uzaklık: city-block distance
 *  şekil: figure
 
-T  
+T
 
 *  tabaka: plate
 *  taban: base
@@ -607,7 +607,7 @@ T
 *  tümleyen: complement
 *  tümsek: bump
 
-U-Ü  
+U-Ü
 
 *  uç: terminal
 *  uyarlama: adaptation
@@ -623,7 +623,7 @@ U-Ü
 *  üstün—: hyper-
 *  üyelik: membership
 
-V  
+V
 
 *  ve: and
 *  ve ötekiler: et al
@@ -631,7 +631,7 @@ V
 *  veri tabanı: repository
 *  veya: or
 
-Y  
+Y
 
 *  yaklaşık: approximate
 *  yaklaşıklama: approximation
@@ -671,7 +671,7 @@ Y
 *  yükleme: loading
 *  yüzey: surface
 
-Z  
+Z
 
 *  zaman çizelgesi: schedule
 *  zaman dizisi: time series
