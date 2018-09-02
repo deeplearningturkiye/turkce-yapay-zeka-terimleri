@@ -23,8 +23,10 @@ A
 *  altçizge: subgraph
 *  altküme: subset
 *  altuzay: subspace
+* **anabilim:semantics**
 *  anahtarlı çizelge: hash table
 *  anlamlılık: significance
+* **anlaşarak yönlendirme:routing-by-agreement**
 *  anma: recall
 *  ara değerlemek: interpolate
 *  aralık: interval
@@ -55,6 +57,7 @@ B
 *  bağ: link
 *  bağımsız ve özdeşçe dağılmış: iid
 *  bağımsızlık: independence
+* **bağımsız değişken:predictor**
 *  bağlanım: regression
 *  bağlanım çiziti: regressogram
 *  bağlantı: connection
@@ -67,6 +70,7 @@ B
 *  bedel: cost
 *  beklenti büyütme: expectation-maximization
 *  belge: document
+* **belirli bir forma getirmek: standardize**
 *  belirti: symptom
 *  belirtim: predicate
 *  belit: axiom
@@ -78,6 +82,7 @@ B
 *  bileşen: component
 *  bilgi: information
 *  bilgi: knowledge
+* **bilgisayarlı görü:computer vision**
 *  binom: binomial
 *  birikimli \(dağılım\): cumulative \(distribution\)
 *  birini dışarıda bırak: leave-one-out
@@ -105,6 +110,9 @@ C-Ç
 *  çapraz düzensizlik: cross-entropy
 *  çapraz geçerleme: cross-validation
 *  çarpan: factor
+* **çatı:framework**
+* **çekişmeli:adversarial**
+* **çekişmeli üretici ağlar**
 *  çekirdek: kernel
 *  çekirdekleme: kernelization
 *  çeşitlilik: diversity
@@ -127,6 +135,7 @@ C-Ç
 *  çok aşamalı: multistage
 *  çok boyutluluğun laneti: curse of dimensionality 
 *  çok: değişkenli: multivariate
+* **çok katmanlı algılayıcı:multi layer perceptron(MLP)**
 *  çoklu: multiple
 *  çoklu ağaç: polytree
 *  çoklu ayırıcı: polychotomizer 
@@ -165,12 +174,16 @@ D
 *  dışbükey: convex
 *  dışdeğerleme: extrapolation
 *  dışlamalı veya: xor
+* **dinamik yönlendirme: dynamic routing**
 *  dizey: matrix
 *  dizge: system
 *  dizi: sequence 
 *  dizi: string
 *  dizin: index
+* **dolgulama:padding**
+* **doğrultulmuş lineer ünite:rectified linear unit(RELU)**
 *  doğrusal: linear
+* **doğrusal saptama:lineer regression**
 *  doğrusal olmayan: nonlinear 
 *  dönem: epoch
 *  döngü: loop
@@ -192,7 +205,8 @@ E
 *  ebeveyn \(düğüm\): parent \(node\)
 *  edilgen: passive 
 *  eğer-ise: if-then
-*  eğim: gradient 
+*  eğim: gradient
+* **eğitim dokümanları:tutorial**
 *  egri: curve
 *  egri: spline
 *  eğrilik: curvature 
@@ -241,6 +255,7 @@ E
 *  etmen: agent
 *  Euclid uzaklığı: Euclidean distance 
 *  evrişim: convolution
+* **evrişimli sinir ağları: convolutional neural networks**
 *  eylem: action
 
 F  
@@ -259,6 +274,7 @@ G
 *  genişletilmiş: augmented
 *  genişlik öncelikli: breadth-first
 *  gerçek zamanlı: real-time
+* **gerçek referans değer: ground truth**
 *  gerekirci: deterministic 
 *  geri yayma: backpropagation 
 *  geriçatma: reconstruction
@@ -287,7 +303,9 @@ G
 *  gözlemsel: empirical
 *  gözlenebilir: observable
 *  gözlenemeyen: unobservable
+* **gradyan inişi:gradient descend**
 *  güç işlevi: power function
+* **güncel olan en iyi durum:state of art**
 *  gürbüz: robust
 *  gürültü: noise
 *  güven: confidence
@@ -326,8 +344,11 @@ I-İ
 *  ilke: principle
 *  imge noktası: pixel
 *  inanç: belief
+* **ince taneli:fine grained**
+* **işbirlikçi filtreleme:collaborative filtering**
 *  indirim: discount
 *  ipucu: hint
+* **iri taneli:coarse grain**
 *  isometric: eşölçümsel
 *  istenmeyen elektronik posta: spam
 *  işaret: sign
@@ -350,10 +371,13 @@ K
 *  kapsamak: cover
 *  kapsamak: span
 *  kapsayan: exhaustive
+* **kapsül:capsule**
+* **karakteristik nokta saptama:landmark detection**
 *  karar: decision
 *  kararlı: stable
 *  karesel, ikinci dereceden: quadratic
 *  karışım: mixture
+* **karışıklık:perplexity**
 *  karma: hybrid
 *  karmaşıklık: complexity
 *  kat: fold
@@ -361,6 +385,7 @@ K
 *  katlıterimli \(dağılım\): multinomial \(distribution\)
 *  kat: man layer
 *  katmanlaştırma: stratification
+* **kaybolan eğim: vanishing gradient**
 *  kavşak: junction
 *  kayan: floating
 *  kaynaklar: references
@@ -404,6 +429,7 @@ M-N
 *  merkezi limit kuramı: central limit theorem
 *  model: model
 *  model varsayımı: inductive bias
+* **mutlak en iyi:global optimum**
 *  neden: cause
 *  nedensel: causal
 *  nicemleme: quantization
@@ -419,7 +445,9 @@ O-Ö
 *  olasılıksal: probabilistic
 *  olumsallık \(çizelgesi\): contingency \(table\)
 *  ortalama: mean
+* **ortalama hassasiyet:mean average**
 *  ortam: environment
+* **otokodlayıcı:autoencoder**
 *  oturtma, uydurma: fit
 *  oylama: voting
 *  öbek: cluster
@@ -428,6 +456,7 @@ O-Ö
 *  ödünleşim: trade-off
 *  öğe: item
 *  öğe: element
+* **öğrenme transferi:fine tuning**
 *  ölçek: scale
 *  ölçev: metric
 *  ölçüt: criterion
@@ -439,6 +468,7 @@ O-Ö
 *  önsel: prior
 *  örnek: example
 *  örnek: instance
+* **örnekleme:pooling**
 *  örnek program: pseudocode
 *  örnek tabanlı: case-based
 *  örneklemek \(f\), örneklem \(i\): sample
@@ -453,6 +483,7 @@ O-Ö
 *  özilişkilendirici: autoassociator
 *  öznitelik: attribute
 *  öznitelik: feature
+* **öznitelik temsili: feature representation**
 *  özörgütlemeli: self-organizing
 *  özyineli: recurrent
 *  özyöney: eigenvector
@@ -468,6 +499,7 @@ P-R
 *  rastgele: random
 *  rastgele: stochastic
 *  rastgele örnekleme: bootstrap
+* **rastgele değişken:random forest**
 *  rastsal: random
 *  rastsallaştırma: randomization
 *  ret: reject
@@ -496,12 +528,15 @@ S-Ş
 *  sesbirimcik: phone
 *  seyrek: condensed
 *  seyrek: sparse
+* **seyreltme: dropout**
 *  sezgi: heuristics
 *  sezim: detection
 *  sıçrama: jump
 *  sıfır denencesi: null hypothesis
 *  sıfır noktası \(eksenlerin\): origin \(of axes\)
 *  sığım: capacity
+* **sık örnekleme:up sampling**
+* **sıkıştırma fonksiyonu: squashing function**
 *  sıkıştırma: compression
 *  sınama: test
 *  sınıf: class
@@ -518,6 +553,7 @@ S-Ş
 *  sipariş: jobshop
 *  somutlaşmak: instantiate
 *  sonlu serüven: finite horizon
+* **sonlu tamamlayıcı: cofinite**
 *  sonsal olasılık: posterior
 *  sonsuz serüven: infinite horizon
 *  sonuç: outcome
@@ -541,6 +577,7 @@ T
 *  tabaka: plate
 *  taban: base
 *  taban: basis
+* **tam hassasiyet:full precision**
 *  tanı: diagnosis
 *  tanıma: recognition
 *  tanısal: diagnostic
@@ -548,6 +585,7 @@ T
 *  tavlamak: anneal
 *  teğet: tangent
 *  tek değişkenli: univariate
+* **tek tip yapma:standardization**
 *  tek yanlı: one-sided
 *  tekdüze \(dağılım\): uniform \(distribution\)
 *  tekil: singular
@@ -561,6 +599,7 @@ T
 *  tersine mühendislik: reverse engineering
 *  tetiklik: vigilance
 *  toplam çarpma: sum-product
+* **topluluk metotları:ensemble methods**
 *  toptan: batch
 *  tuz buz etmek: shatter
 *  tüm değişkenli: omnivariate
@@ -576,9 +615,11 @@ U-Ü
 *  uzaklık: dist ance
 *  uzamsal: spatial
 *  uzman: expert
+* **uzun kısa vadeli bellek:long-short term memory(LTSM)**
 *  üretici: generative
 *  üst: power
 *  üst düzey: higher-order
+* **üst değişken:hyperparameter**
 *  üstün—: hyper-
 *  üyelik: membership
 
@@ -600,7 +641,9 @@ Y
 *  yapay değişken: dummy variable
 *  yapı: structure
 *  yaprak: leaf
+* **yapısal bağıntı:logistic regression**
 *  yarı kesin artı: positive semidefinite
+* **yarım hassasiyet:half precision**
 *  yarışmacı: competitive
 *  yatık: oblique
 *  yayılım: propagation
@@ -609,7 +652,9 @@ Y
 *  yayın: diffusion
 *  yerbetimsel: topographic
 *  yerel: local
+* **yerel minimum:local minimum**
 *  yerölçümsel: geodesic
+* **yerini saptama: localization**
 *  yıkma: stacking
 *  yineleme: iteration
 *  yitim: loss
