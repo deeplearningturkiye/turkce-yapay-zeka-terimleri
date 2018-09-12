@@ -61,6 +61,13 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ:'işbirlikçi filtreleme'
 
+## data augmentation
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: veri artırma
+
+
 ## dropout
 - [x] TÜBA
 - [ ] TDK
