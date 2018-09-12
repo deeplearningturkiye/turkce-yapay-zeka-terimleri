@@ -13,7 +13,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 **Encoder** kelimesinin TDK sözlüğünde karşılığı **kodlayıcı** olarak belirtilmektedir. 
 
-ÖNERİ: `otokodlayıcı`
+ÖNERİ: `otokodlayıcı` kendiliğinden kodlayıcı
 
 
 ## bounding box
@@ -59,7 +59,7 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ:'işbirlikçi filtreleme'
+ÖNERİ:'işbirlikçi süzme'
 
 ## data augmentation
 - [ ] TÜBA
@@ -74,7 +74,7 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 **dropout** TÜBA'da **güç sönümü** olarak geçmektedir. Yapay zeka alanında elektronikle ilgili bu çevirinin uygun olmadığı düşünülmektedir.
 
-ÖNERİ: `seyreltme`
+ÖNERİ: `seyreltme` sönümleme(?)
 
 ## dynamic routing
 - [x] TÜBA
@@ -82,23 +82,24 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 **routing*** kelimesi TÜBA'da **rotalama** TDK'da ise **yöneltilme** olarak çevrilmiştir.
 
-ÖNERİ: `dinamik yönlendirme, dinamik rotalama`
+ÖNERİ: `dinamik yönlendirme, dinamik rotalama` devingen yönlendirme 
+dinamik ve rota sözcükleri Türkçe değildir
 
 ## embedding
 - [ ] TÜBA
 - [ ] TDK
 
 ÖNERİ: `özyerleşik` - Hacettepe Unv. Multimedia Information Retrieval Lab önerisidir.
-
+yerleştirme
 
 ## ensemble methods
 - [ ] TÜBA
 - [ ] TDK
-ÖNERİ:Topluluk Metotları
+ÖNERİ:Topluluk Yöntemleri
 
 Örnek: 
-Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel modeli birleştiren bir makine öğrenmesi tekniğidir.
-
+~~Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel modeli birleştiren bir makine öğrenmesi tekniğidir.~~
+Topluluk yöntemleri, en uygun kestirme kalıbını üretmek için birkaç belli başlı kalıbı birleştiren bir makine öğrenmesi/öğrenimi yöntemidir/uygulamasıdır.
 
 ## feature representation 
 - [ ] TÜBA
@@ -106,7 +107,7 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 
 **feature** TDK'da **özellik** TÜBA'da ise **öznitelik** olarak çevrilmiştir.
 
-ÖNERİ: `öznitelik temsili`
+ÖNERİ: `öznitelik temsili` `öznitelik sunumu`
 
 ## feed-forward
 - [ ] TÜBA
@@ -126,7 +127,7 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [x] TÜBA
 - [x] TDK
 
-**framework** TDK'da ve TÜBA'da **çatı** şeklinde çevrilmiştir.
+**framework** TDK'da ve TÜBA'da **çatı** biçiminde çevrilmiştir.
 
 ÖNERİ: `çatı`
 
@@ -134,7 +135,7 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: `tam hassasiyet`
+ÖNERİ: `tam duyarlılık`
 
 
 ## generative adversarial networks
@@ -160,9 +161,9 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 
 Gradyan(yön türevi): Artımın en çok olduğu yere doğru yönelmiş bir vektör alanını verir.
 
-Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksiyonun gradyanının **negatifiyle** orantılı adımlar atılır.
+Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlevin, geçişin **olumsuzuyla** orantılı adımlar atılır.
 
-ÖNERİ:'Gradyan İnişi'
+ÖNERİ:'Gradyan İnişi' `geçişli iniş`
 
 ## ground truth 
 - [ ] TÜBA
@@ -177,7 +178,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: yarım hassasiyet
+ÖNERİ: yarım duyarlılık
 
 ## hyperparameter
 - [ ] TÜBA
@@ -200,14 +201,14 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: doğrusal  bağıntı
+ÖNERİ: doğrusal bağıntı
 
 
 ## localization 
 - [x] TÜBA
 - [ ] TDK
 
-ÖNERİ: `yerseme (yerini saptama, lokalizasyon)`
+ÖNERİ: `yerseme (yerini saptama)`
 
 ## local minimum
 - [ ] TÜBA
@@ -234,13 +235,13 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [x] TÜBA
 - [ ] TDK
 
-ÖNERİ: `Uzun-Kısa Vadeli Bellek`
+ÖNERİ: `Uzun-Kısa Süreli Bellek`
 
 ## mean average precision
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: ortalama kesinlik,ortalama hassasiyet
+ÖNERİ: ortalama kesinlik, ortalama duyarlılık
 
 ## Multi Layer Perceptron(MLP)
 - [ ] TÜBA
@@ -289,7 +290,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: doğrultulmuş lineer ünite
+ÖNERİ: doğrultulmuş doğrusal birim
 
 
 ## routing-by-agreement
@@ -302,13 +303,13 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: 'güncel olan en iyi durum'
+ÖNERİ: 'güncel olan en iyi durum', 'başyapıt'
 
 ## squashing function
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Sıkıştırma Fonksiyonu
+ÖNERİ: Sıkıştırma İşlevi
 
 ## softmax
 - [ ] TÜBA
@@ -320,21 +321,21 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ:  tek tipleştirmek, belirli bir forma getirmek
+ÖNERİ:  ~~tek tipleştirmek~~ türdeşleştirilmiş, belirli bir ~~forma~~biçime getirilmiş
 
 
 ## standardization
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: standartlaştırma, tek tip yapma
+ÖNERİ: ~~standartlaştırma~~ ölçünleme, ~~tek tip~~türdeş yapma, türdeşleştirme
 
 
 ## tutorial
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Örnek uygulamalar, eğitim dökümanları
+ÖNERİ: Örnek uygulamalar, eğitim ~~dökümanları~~belgelendirmeleri
 
 ## up sampling
 - [ ] TÜBA
@@ -346,12 +347,12 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Kaybolan Eğim (türevlerin 0'a gitmesi 0 olması, bir fonksiyonun türevinin 0 vermesi) 
+ÖNERİ: Yiten Eğim (türevlerin 0'a gitmesi 0 olması, bir ~~fonksiyonun~~işlevin türevinin 0 vermesi) 
 
 
 
 # SÖZLÜKTE YER ALAN FAKAT DEĞİŞTİRİLMESİ ÖNERİLENLER
-Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
+Aşağıdaki sözcük ya da sözcük takımlarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
 
 ## bias
 - [x] TÜBA
@@ -383,7 +384,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TÜBA
 - [x] TDK
 
-**epoch** TDK'da **devre** olarak geçmektedir. Sözlük'te ise **dönem** olarak çevrilmiştir. Makine öğrenmesinde bir verisetinin tamamının bir kere ağdan geçiş yapmasına İngilizcede **epoch** denilmektedir.
+**epoch** TDK'da **devre** olarak geçmektedir. Sözlük'te ise **dönem** olarak çevrilmiştir. Makine öğrenmesinde bir veridizisinin tamamının bir kere ağdan geçiş yapmasına İngilizcede **epoch** denilmektedir.
 
 ÖNERİ: `devir`
 
@@ -399,9 +400,9 @@ Wikipedia: Belirli bir görev için halihazırda eğitilmiş bir ağ modelini al
 
 ## np-complete
 
-**np-complete** ingilizce tanımı: problems that are solved in polynomial time by a non-deterministic turing machine. Türkçe çevirisinde ise "çokterimli zamanda bulunamaz" şeklinde geçiyor. Fakat bu yanlış bir kullanım. NP sınıfı çoğu zaman "non-polynomial time" şeklinde karıştırılıyor. Fakat asıl açılımı "non-deterministic polynomial time". Biz henüz bu sınıftaki problemlerin çokterimli zamanda bulunamayacağını kanıtlayamadık.
+**np-complete** ingilizce tanımı: problems that are solved in polynomial time by a non-deterministic turing machine. Türkçe çevirisinde ise "çokterimli zamanda bulunamaz" şeklinde geçiyor. Fakat bu yanlış bir kullanım. NP sınıfı çoğu zaman "non-polynomial time" biçiminde karıştırılıyor. Fakat gerçek açılımı "non-deterministic polynomial time". Biz henüz bu sınıftaki sorunların çokterimli zamanda bulunamayacağını kanıtlayamadık.
 
-NP-complete sınıfını NP sınıfından ayıran fark ise NP sınıfındaki her problemi çokterimli zaman kullanarak NP-complete sınıfındaki bir probleme eşleyebilmemiz. Bu nedenle NP-complete sınıfındaki herhangi bir probleme çokterimli zamanda bir çözüm üretirsek, P=NP doğru oluyor.
+NP-complete sınıfını NP sınıfından ayıran ayrım ise NP sınıfındaki her sorunu çokterimli zaman kullanarak NP-complete sınıfındaki bir probleme eşleyebilmemiz. Bu nedenle NP-complete sınıfındaki herhangi bir soruna çokterimli zamanda bir çözüm üretirsek, P=NP doğru oluyor.
 
 Bu sınıfların harf kısaltmaları aynı şekilde kullanılabilir. Doğal sayı kümesine N dediğimiz gibi.
 
@@ -418,6 +419,20 @@ Bu sınıfların harf kısaltmaları aynı şekilde kullanılabilir. Doğal say�
 RNN(Recurrent Nerual Network)
 RNN 1980’ de geliştirildi. Makine Öğrenmesinde Derin Öğrenme algoritmalarında biri olarak kullanılır. Tanım olarak
 , ardışık bilgileri kullanan modeldir. Kullanım Alanları; Konuşma tanıma, Makine Çevirisi vb.
-ÖNERİ: "Tekrarlayan Sinir Ağları"
+ÖNERİ: "Yineltik Sinir Ağları" "Yinelenen Sinir Ağları"
 
+## model
 
+kalıp, örnek
+
+## recurrent
+
+yinelenen, yineltik
+
+## gradient
+
+geçiş, geçişli
+
+## dataset
+
+veri dizisi
