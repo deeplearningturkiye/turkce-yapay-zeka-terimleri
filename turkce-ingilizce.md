@@ -606,6 +606,7 @@ V
 
 *  ve: and
 *  ve ötekiler: et al
+* **veri artırma: data augmentation**
 *  veri kümesi: dataset
 *  veri tabanı: repository
 *  veya: or
