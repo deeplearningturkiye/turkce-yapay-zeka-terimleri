@@ -132,7 +132,7 @@ C
 * cycle: çevrim
 
 D
-
+* **data augmentation: veri artırma**
 * dataset: veri kümesi
 * decay: sönüm
 * decision: karar
