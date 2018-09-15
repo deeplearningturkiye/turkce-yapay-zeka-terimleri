@@ -321,6 +321,14 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 
 ÖNERİ: 'güncel olan en iyi durum'
 
+## stride
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: adım kaydırma
+
+
+
 ## squashing function
 - [ ] TÜBA
 - [ ] TDK
