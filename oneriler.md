@@ -99,6 +99,12 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 Örnek: 
 Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel modeli birleştiren bir makine öğrenmesi tekniğidir.
 
+## elasticnet
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: esnek ağ
+
 
 ## feature representation 
 - [ ] TÜBA
@@ -195,6 +201,11 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
+## lasso regression
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: kement bağıntı
 
 ## lineer regression
 - [ ] TÜBA
@@ -291,6 +302,12 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 
 ÖNERİ: doğrultulmuş lineer ünite
 
+
+## ridge regression
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: bayır bağıntı
 
 ## routing-by-agreement
 - [ ] TÜBA
