@@ -45,7 +45,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: sonlu tamamlayıcı
+ÖNERİ: `sonlu tamamlayıcı`
 
 ## convolutional neural networks
 - [x] TÜBA
@@ -183,7 +183,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: yarım hassasiyet
+ÖNERİ: `yarım hassasiyet`
 
 ## hyperparameter
 - [ ] TÜBA
