@@ -59,13 +59,13 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ:'işbirlikçi filtreleme'
+ÖNERİ: `işbirlikçi filtreleme`
 
 ## data augmentation
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: veri artırma
+ÖNERİ: `veri artırma`
 
 
 ## dropout
@@ -94,7 +94,7 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 ## ensemble methods
 - [ ] TÜBA
 - [ ] TDK
-ÖNERİ:Topluluk Metotları
+ÖNERİ: `Topluluk Metotları`
 
 Örnek: 
 Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel modeli birleştiren bir makine öğrenmesi tekniğidir.
@@ -103,7 +103,7 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: esnek ağ
+ÖNERİ: `esnek ağ`
 
 
 ## feature representation 
@@ -118,14 +118,14 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: ileri besleme
+ÖNERİ: `ileri besleme`
 
 
 ## fine grained 
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: İnce Taneli(Her biri daha az veri tutan daha fazla nesne)
+ÖNERİ: `İnce Taneli` (Her biri daha az veri tutan daha fazla nesne)
 
 
 ## framework
@@ -157,7 +157,7 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Mutlak En İyi
+ÖNERİ: `Mutlak En İyi`
 
 
 ## gradient descend
@@ -168,7 +168,7 @@ Gradyan(yön türevi): Artımın en çok olduğu yere doğru yönelmiş bir vekt
 
 Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksiyonun gradyanının **negatifiyle** orantılı adımlar atılır.
 
-ÖNERİ:'Gradyan İnişi'
+ÖNERİ: `Gradyan İnişi`, `Bayır inişi`, `Bayıraşağı inişi`
 
 ## ground truth 
 - [ ] TÜBA
@@ -189,7 +189,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Üst değişken
+ÖNERİ: `Üst değişken`
 
 ## landmark detection 
 - [x] TÜBA
@@ -205,13 +205,13 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: kement bağıntı
+ÖNERİ: `kement bağıntı`
 
 ## lineer regression
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: doğrusal  bağıntı
+ÖNERİ: `doğrusal  bağıntı`
 
 
 ## localization 
@@ -224,21 +224,21 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: yerel minimum
+ÖNERİ: `yerel minimum`
 
 ## local maximum
 
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: yerel maksimum
+ÖNERİ: `yerel maksimum`
 
 
 ## logistic regression
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: yapısal bağıntı
+ÖNERİ: `yapısal bağıntı`
 
 
 ## long short term memory (LTSM)
@@ -251,27 +251,29 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: ortalama kesinlik,ortalama hassasiyet
+ÖNERİ: `ortalama kesinlik,ortalama hassasiyet`
 
 ## Multi Layer Perceptron(MLP)
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: çok katmanlı algılayıcı
+ÖNERİ: `çok katmanlı algılayıcı`
 
 
 ## padding 
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: dolgulama
+ÖNERİ: `dolgulama`
 
 
 ## perplexity
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ:karışıklık
+ÖNERİ: `karışıklık`, `tereddüd`
+
+Perplexity bir nevi modelin ortalamada kaç farklı seçim yapacağını ölçüyor, veya ağaçtaki dallanma gibi de düşünebiliriz. Karışıklıktan ziyade modelin seçtiği karar hakkındaki güvenine daha yakın bir kavram gibi.
 
 ## pooling
 - [x] TÜBA
@@ -294,38 +296,38 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: rastgele orman
+ÖNERİ: `rastgele orman`
 
 ## rectified linear unit (RELU)
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: doğrultulmuş lineer ünite
+ÖNERİ: `doğrultulmuş lineer ünite`, `damıtılmış doğrusal birim`
 
 
 ## ridge regression
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: bayır bağıntı
+ÖNERİ: `bayır bağıntı`
 
 ## routing-by-agreement
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: anlaşarak yönlendirme
+ÖNERİ: `anlaşarak yönlendirme`
 
 ## state of art
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: 'güncel olan en iyi durum'
+ÖNERİ: `güncel olan en iyi durum`
 
 ## stride
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: adım kaydırma
+ÖNERİ: `adım kaydırma`
 
 
 
@@ -333,45 +335,45 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Sıkıştırma Fonksiyonu
+ÖNERİ: `Sıkıştırma Fonksiyonu`
 
 ## softmax
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: 'türevlenebilir maximum,yumuşatılmış maximum'
+ÖNERİ: `türevlenebilir maximum`, `yumuşatılmış maximum`
 
 ## standardize
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ:  tek tipleştirmek, belirli bir forma getirmek
+ÖNERİ:  `tek tipleştirmek`, `belirli bir forma getirmek`
 
 
 ## standardization
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: standartlaştırma, tek tip yapma
+ÖNERİ: `standartlaştırma`, `tek tip yapma`
 
 
 ## tutorial
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Örnek uygulamalar, eğitim dökümanları
+ÖNERİ: `Örnek uygulamalar`, `eğitim dökümanları`
 
 ## up sampling
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Sık Örnekleme
+ÖNERİ: `Sık Örnekleme`
 
 ## vanishing gradient
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Kaybolan Eğim (türevlerin 0'a gitmesi 0 olması, bir fonksiyonun türevinin 0 vermesi) 
+ÖNERİ: `Kaybolan Eğim` (türevlerin 0'a gitmesi 0 olması, bir fonksiyonun türevinin 0 vermesi) 
 
 
 
@@ -384,7 +386,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 **bias** kelimesinin karşılığı TÜBA'da **yanlılık** olarak geçmektedir.
 
-ÖNERİ: yanlılık değeri
+ÖNERİ: `yanlılık değeri`
 
 
 ## condense
@@ -420,7 +422,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 Wikipedia: Belirli bir görev için halihazırda eğitilmiş bir ağ modelini alma ve bunu ikinci bir benzer görevi gerçekleştirmek için kullanma işlemidir.
 
-ÖNERİ: Öğrenme Transferi
+ÖNERİ: `Öğrenme Transferi`
 
 ## np-complete
 
@@ -437,12 +439,12 @@ Bu sınıfların harf kısaltmaları aynı şekilde kullanılabilir. Doğal say�
 - [ ] TDK
 **semantics** kelimesinin karşılığı TÜBA'da **anlambilimsel ağ** olarak geçmektedir.
 
-ÖNERİ: Anlambilim
+ÖNERİ: `Anlambilim`
 
 
 RNN(Recurrent Nerual Network)
 RNN 1980’ de geliştirildi. Makine Öğrenmesinde Derin Öğrenme algoritmalarında biri olarak kullanılır. Tanım olarak
 , ardışık bilgileri kullanan modeldir. Kullanım Alanları; Konuşma tanıma, Makine Çevirisi vb.
-ÖNERİ: "Tekrarlayan Sinir Ağları"
+ÖNERİ: `Tekrarlayan Sinir Ağları`
 
 
