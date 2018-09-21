@@ -13,7 +13,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 **Encoder** kelimesinin TDK sözlüğünde karşılığı **kodlayıcı** olarak belirtilmektedir. 
 
-ÖNERİ: `otokodlayıcı`
+ÖNERİ: kendiliğinden kodlayıcı
 
 
 ## bounding box
@@ -59,7 +59,7 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ:'işbirlikçi filtreleme'
+ÖNERİ:'işbirlikçi süzme'
 
 ## data augmentation
 - [ ] TÜBA
@@ -74,7 +74,7 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 **dropout** TÜBA'da **güç sönümü** olarak geçmektedir. Yapay zeka alanında elektronikle ilgili bu çevirinin uygun olmadığı düşünülmektedir.
 
-ÖNERİ: `seyreltme`
+ÖNERİ: sönümleme
 
 ## dynamic routing
 - [x] TÜBA
@@ -82,19 +82,19 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 **routing*** kelimesi TÜBA'da **rotalama** TDK'da ise **yöneltilme** olarak çevrilmiştir.
 
-ÖNERİ: `dinamik yönlendirme, dinamik rotalama`
+ÖNERİ: `devingen yönlendirme, devingen rotalama`
 
 ## embedding
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: `özyerleşik` - Hacettepe Unv. Multimedia Information Retrieval Lab önerisidir.
+ÖNERİ: `özyerleşik,yerleştirme` - Hacettepe Unv. Multimedia Information Retrieval Lab önerisidir.
 
 
 ## ensemble methods
 - [ ] TÜBA
 - [ ] TDK
-ÖNERİ:Topluluk Metotları
+ÖNERİ:Topluluk Yöntemleri
 
 Örnek: 
 Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel modeli birleştiren bir makine öğrenmesi tekniğidir.
@@ -112,7 +112,7 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 
 **feature** TDK'da **özellik** TÜBA'da ise **öznitelik** olarak çevrilmiştir.
 
-ÖNERİ: `öznitelik temsili`
+ÖNERİ: `öznitelik sunumu`
 
 ## feed-forward
 - [ ] TÜBA
@@ -132,7 +132,7 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [x] TÜBA
 - [x] TDK
 
-**framework** TDK'da ve TÜBA'da **çatı** şeklinde çevrilmiştir.
+**framework** TDK'da ve TÜBA'da **çatı** biçiminde çevrilmiştir.
 
 ÖNERİ: `çatı`
 
@@ -140,7 +140,7 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: `tam hassasiyet`
+ÖNERİ: `tam duyarlılık`
 
 
 ## generative adversarial networks
@@ -166,9 +166,9 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 
 Gradyan(yön türevi): Artımın en çok olduğu yere doğru yönelmiş bir vektör alanını verir.
 
-Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksiyonun gradyanının **negatifiyle** orantılı adımlar atılır.
+Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlevinin gradyanının **olumsuzuyla** orantılı adımlar atılır.
 
-ÖNERİ:'Gradyan İnişi'
+ÖNERİ:'Geçişli İniş'
 
 ## ground truth 
 - [ ] TÜBA
@@ -183,7 +183,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: yarım hassasiyet
+ÖNERİ: yarım duyarlılık
 
 ## hyperparameter
 - [ ] TÜBA
@@ -218,7 +218,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [x] TÜBA
 - [ ] TDK
 
-ÖNERİ: `yerseme (yerini saptama, lokalizasyon)`
+ÖNERİ: `yerseme (yerini saptama)`
 
 ## local minimum
 - [ ] TÜBA
@@ -245,13 +245,13 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [x] TÜBA
 - [ ] TDK
 
-ÖNERİ: `Uzun-Kısa Vadeli Bellek`
+ÖNERİ: `Uzun-Kısa Süreli Bellek`
 
 ## mean average precision
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: ortalama kesinlik,ortalama hassasiyet
+ÖNERİ: ortalama kesinlik,ortalama duyarlılık
 
 ## Multi Layer Perceptron(MLP)
 - [ ] TÜBA
@@ -300,7 +300,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: doğrultulmuş lineer ünite
+ÖNERİ: doğrultulmuş doğrusal birim
 
 
 ## ridge regression
@@ -333,7 +333,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Sıkıştırma Fonksiyonu
+ÖNERİ: Sıkıştırma İşlevi
 
 ## softmax
 - [ ] TÜBA
@@ -352,14 +352,14 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: standartlaştırma, tek tip yapma
+ÖNERİ: standartlaştırma, türdeş yapma
 
 
 ## tutorial
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Örnek uygulamalar, eğitim dökümanları
+ÖNERİ: Örnek uygulamalar, eğitim belgelendirmeleri
 
 ## up sampling
 - [ ] TÜBA
@@ -371,12 +371,12 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Kaybolan Eğim (türevlerin 0'a gitmesi 0 olması, bir fonksiyonun türevinin 0 vermesi) 
+ÖNERİ: Yiten Eğim (türevlerin 0'a gitmesi 0 olması, bir fonksiyonun türevinin 0 vermesi) 
 
 
 
 # SÖZLÜKTE YER ALAN FAKAT DEĞİŞTİRİLMESİ ÖNERİLENLER
-Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
+Aşağıdaki sözcük ya da sözcük gruplarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
 
 ## bias
 - [x] TÜBA
