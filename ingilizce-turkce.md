@@ -613,6 +613,7 @@ S
 *  stratification: katmanla¸stırma
 *  stress: gerilim
 *  string: dizi
+* **stride: adım kaydırma**
 *  structure: yapı
 *  stump: ağaççık
 *  subgraph: alt çizge
