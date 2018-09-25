@@ -5,6 +5,7 @@ A
 *  açılım: expansion
 *  açılmış: unfold
 *  adım büyüklüğü: stepsize
+* **adım kaydırma: stride**
 *  ağ: network
 *  ağaç çizit: dendrogram
 *  ağaç yapılı: hierarchical
