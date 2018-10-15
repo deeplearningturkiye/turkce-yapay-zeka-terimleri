@@ -74,7 +74,7 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 **dropout** TÜBA'da **güç sönümü** olarak geçmektedir. Yapay zeka alanında elektronikle ilgili bu çevirinin uygun olmadığı düşünülmektedir.
 
-ÖNERİ: sönümleme
+ÖNERİ: sönümleme, düğüm seyreltme
 
 ## dynamic routing
 - [x] TÜBA
