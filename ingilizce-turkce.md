@@ -98,13 +98,13 @@ C
 * condensed: seyrek
 * conditional: independence koşullu bağımsızlık
 * confidence: güven
-* confusion: \(matrix\) hata \(dizeyi\)
+* confusion matrix: hata dizeyi
 * conjugate: eşlenik
-* connected: \(graph\) bağlı \(çizge\)
+* connected graph: bağlı çizge
 * connection: bağlantı
 * connectivity: bağlantısallık
 * constant: sabit
-* contingency: \(table\) olumsallık \(çizelgesi\)
+* contingency table: olumsallık çizelgesi
 * contour: çevrit
 * contrast: zıtlık
 * convex: dışbükey
@@ -125,7 +125,7 @@ C
 * critic: eleştirmen
 * cross-entropy: çapraz düzensizlik
 * cross-validation: çapraz geçerleme
-* cumulative: \(distribution\) birikimli \(dağılım\)
+* cumulative distribution: birikimli dağılım
 * curse of dimensionality: çok boyutluluğun laneti
 * curvature: eğrilik
 * curve: eğri
@@ -203,7 +203,7 @@ E
 * error: hata
 * error bar: hata çubuğu
 * et al: ve ötekiler
-* euclidean distance: euclid\(öklid\) uzaklığı
+* euclidean distance: öklid uzaklığı
 * evaluation: değerlendirme
 * evidence: kanıt
 * exact: kesin
@@ -221,7 +221,7 @@ E
 
 F
 
-* factor: (1)çarpan, (2)etken
+* factor: çarpan veya etken
 * factorial: etkensel
 * feature: öznitelik
 * **feature representation: öznitelik temsili**
@@ -266,7 +266,7 @@ H
 * hidden: saklı
 * hierarchical: ağaç yapılı
 * higher-order: üst düzey
-* hinge \(loss\): menteşe \(yitimi\)
+* hinge loss: menteşe yitimi
 * hint: ipucu
 * histogram: çubuk,çizit
 * hybrid: karma
@@ -336,7 +336,7 @@ L
 * leaf: yaprak
 * leave-one-out: birini dışarıda bırak
 * level: düzey
-* lift \(of an association rule\): etki \(ilişkilendirme kuralının\)
+* lift of an association rule: etki ilişkilendirme kuralı
 * likelihood: olabilirlik
 * linear: doğrusal
 * **lineer regression: doğrusal bağıntı**
@@ -348,7 +348,8 @@ L
 * logistic: s biçimli
 * **logistic regression: yapısal bağıntı**
 * logit: ters s
-* **long short term memory (LTSM): uzun-kısa vadeli bellek**
+* **long short term memory: uzun-kısa vadeli bellek**
+* **LTSM: long short term memory**
 * loop: döngü
 * loss: yitim
 
@@ -362,8 +363,8 @@ M
 *  matching: eşleştirme
 *  matrix: dizey
 *  maximization: büyütme
-*  maximum a posteriori \(map\): en büyük sonsal \(ebs\)
-*  maximum likelihood \(ml\): en büyük olabilirlik \(ebo\)
+*  maximum a posteriori map: en büyük sonsal ebs
+*  maximum likelihood ml: en büyük olabilirlik ebo
 *  max-product: büyütme çarpma
 *  mean: ortalama
 * **mean average precision: ortalama hassasiyet**
@@ -379,11 +380,12 @@ M
 *  missing: eksik
 *  mixture: karışım
 *  modality: kip
-*  mode \(of a density\): tepe \(dağılımın\)
+*  mode of a density: tepe dağılımı
 *  model: model
 *  moralization: ahlaklıla¸stırma
-* **multi layer perceptron (MLP): çok katmanlı algılayıcı**
-*  multinomial \(distribution\): katlıterimli \(dağılım\)
+* **multi layer perceptron: çok katmanlı algılayıcı**
+* **MLP: multi layer perceptron**
+*  multinomial distribution: katlıterimli dağılım
 *  multiple: çoklu
 *  multistage: çok aşamalı
 *  multivariate: çok değişkenli
@@ -424,9 +426,9 @@ O
 *  optimal: en iyi
 *  optimization: iyileme
 *  or: veya
-*  order \(of a polynomial\): derece \(çokterimlinin\)
-*  order \(statistics\): sıra \(istatistikleri\)
-*  origin \(of axes\): sıfır noktası \(eksenlerin\)
+*  order of a polynomial: çokterimlinin derecesi
+*  order statistics: sıra istatistikleri
+*  origin of axes: eksenlerin sıfır noktası
 *  oscillate: salınım
 *  outcome: sonuç
 *  outlier: aykırı
@@ -441,7 +443,7 @@ P
 *  pairwise: ikili
 *  parallel: koşut
 *  parametric: dağılıma bağlı
-*  parent \(node\): ebeveyn \(düğüm\)
+*  parent node: ebeveyn düğüm
 *  parity: eşlik
 *  partial: kısmi, kısmen
 *  passive: edilgen
@@ -491,7 +493,7 @@ P
 *  procedure: yordam
 *  projection: izdüşüm
 *  propagation: yayılım
-*  propositional \(rule\): önermeli \(kural\)
+*  propositional rule: önermeli kural
 *  prototype: asıl örnek
 *  pruning: budama
 *  pseudocode: örnek program
@@ -512,8 +514,8 @@ R
 * **random forest: rastgele değişken**
 *  randomization: rastsalla¸stırma
 *  range: açıklık
-*  rank \(of a matrix\): kerte \(dizeyin\)
-*  rank \(test\): sıra \(sınaması\)
+*  rank of a matrix: dizeyin kertesi
+*  rank test: sıra sınaması
 *  real-time: gerçek zamanlı
 *  reasoning: akıl yürütme
 *  recall: anma
@@ -522,7 +524,8 @@ R
 *  reciprocal: ters
 *  recognition: tanıma
 *  reconstruction: geri çatma
-* **rectified linear unit (RELU): doğrultulmuş lineer ünite**
+* **rectified linear unit: doğrultulmuş lineer ünite**
+* **RELU: rectified linear unit**
 *  recurrent: özyineli
 *  recursive: özçağrılı
 *  redundancy: fazlalık
@@ -554,7 +557,7 @@ R
 
 S  
 
-*  sample: örneklemek \(f\), örneklem \(i\)
+*  sample: örneklemek veya örneklem
 *  scalar: sayıl
 *  scale: ölçek
 *  scatter: saçılım
@@ -577,18 +580,18 @@ S
 *  share: paylaşmak
 *  shatter: tuz buz etmek
 *  short term: kısa soluklu
-*  sigmoid sigmoid: \(s işlevi\)
+*  sigmoid: işlevi
 *  sign: işaret
 *  significance: anlamlılık
 *  simulation: benzetim
 *  simultaneous: eş zamanlı
-*  singly \(connected\): tekli \(bağlı\)
+*  singly connected: tekli bağlı
 *  singular: tekil
-*  slack \(variable\): artık \(değişken\)
+*  slack variable: artık değişken
 *  smooth: düzleştirme
 *  smoother: düzleştirici
 *  soft: eşiksiz
-*  softmax \(function\): eşiksiz en büyük işlevi
+*  softmax function: eşiksiz en büyük işlevi
 *  sort: sıralamak
 *  spam: istenmeyen elektronik posta
 *  span: kapsamak
@@ -663,7 +666,7 @@ U
 *  unconstrained: kısıtlanmamış
 *  underfitting: eksik öğrenme
 *  unfold: açılmış
-*  uniform \(distribution\): tekdüze \(dağılım\)
+*  uniform distribution: tekdüze dağılım
 *  univariate: tek değişkenli
 *  unobservable: gözlenemeyen
 *  unsupervised: gözetimsiz
