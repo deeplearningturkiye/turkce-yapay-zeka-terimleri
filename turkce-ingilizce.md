@@ -162,6 +162,7 @@ D
 *  deney: experiment 
 *  denklem: equation
 *  derece çokterimlinin: order of a polynomial
+* **derin: deep**
 *  derinlik öncelikli: depth-first
 *  destek: support
 *  devingen: dynamic
@@ -618,6 +619,8 @@ Y
 *  yanal: lateral
 *  yanlılık: bias
 *  yansız: unbiased
+* **yapay: artificial**
+* **yapay sinir ağları: artificial neural networks**
 *  yapay değişken: dummy variable
 *  yapı: structure
 *  yaprak: leaf
