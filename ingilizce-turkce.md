@@ -24,6 +24,8 @@ A
 * approximation: yaklaşıklama
 * arc: ayrıt
 * articulator: eklemleyici
+* **artificial: yapay**
+* **artificial neural networks: yapay sinir ağları**
 * association: ilişkilendirme
 * attribute: öznitelik
 * augmented: genişletilmiş
@@ -94,6 +96,7 @@ C
 * compression: sıkıştırma
 * computation: hesaplama
 * **computer vision: bilgisayarlı görü**
+* **CNN: convolutional neural networks**
 * concave: içbükey
 * condensed: seyrek
 * conditional: independence koşullu bağımsızlık
@@ -141,6 +144,7 @@ D
 * decomposition: ayrışım
 * decremental: azalımlı
 * dendrogram: ağaç çizit
+* **deep: derin**
 * density: yoğunluk
 * depth-first: derinlik öncelikli
 * descendant: soyundan gelen
@@ -243,10 +247,10 @@ F
 * fuzzy: bulanık
 
 G
-
+* **GAN: Generative Adversarial Network**
 * generalization: genelleme
 * generative: üretici
-* **generative adversarial networks: çekişmeli üretici ağlar**
+* **Generative Adversarial Networks: çekişmeli üretici ağlar**
 * generic: genel
 * geodesic: yerölçümsel
 * **global optimum: mutlak en iyi**
