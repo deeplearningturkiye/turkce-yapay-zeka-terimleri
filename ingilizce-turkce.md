@@ -1,7 +1,11 @@
 A
 
+* **advertisal network: rakip ağ**
+* **AI: artificial intelligence**
+* **accuracy: doğruluk**
 * action: eylem
 * activation: etkilenim
+* **activation function: etkilenim fonksiyonu**
 * active: etkin
 * acyclic: çevrimsiz
 * adaptation: uyarlama
@@ -25,6 +29,7 @@ A
 * arc: ayrıt
 * articulator: eklemleyici
 * **artificial: yapay**
+* **artificial intelligence: yapay zeka**
 * **artificial neural networks: yapay sinir ağları**
 * association: ilişkilendirme
 * attribute: öznitelik
@@ -38,6 +43,7 @@ A
 B
 
 * backup: geriye taşıma
+* **backpropogation: geri yayılım**
 * backward: geriye doğru
 * bag of words: sözcük torbası
 * bandit: kollu kumar makinesi
@@ -79,6 +85,7 @@ C
 * chi-square: ki kare
 * city-block distance: şehir içi uzaklık
 * class: sınıf
+* **classification: sınıflandırma**
 * classifier: sınıflandırıcı
 * clique: hizip
 * cluster: öbek
@@ -100,7 +107,7 @@ C
 * concave: içbükey
 * condensed: seyrek
 * conditional: independence koşullu bağımsızlık
-* confidence: güven
+* confidence: güven+
 * confusion matrix: hata dizeyi
 * conjugate: eşlenik
 * connected graph: bağlı çizge
@@ -110,6 +117,8 @@ C
 * contingency table: olumsallık çizelgesi
 * contour: çevrit
 * contrast: zıtlık
+* **conversational: konuşma**
+* **conversational dialogue: konuşma diyaloğu**
 * convex: dışbükey
 * convolution: evrişim
 * **convolutional neural networks: evrişimli sinir ağları**
@@ -136,6 +145,7 @@ C
 
 D
 * **data augmentation: veri artırma**
+* **data mining: veri madenciliği**
 * dataset: veri kümesi
 * decay: sönüm
 * decision: karar
@@ -144,11 +154,14 @@ D
 * decomposition: ayrışım
 * decremental: azalımlı
 * dendrogram: ağaç çizit
+* **deep learning: derin öğrenme**
 * **deep: derin**
 * density: yoğunluk
+* **depth: derinlik**
 * depth-first: derinlik öncelikli
 * descendant: soyundan gelen
 * description: betimleme
+* **desicion tree: karar ağacı**
 * design: tasarım
 * detail: ayrıntı
 * detection: sezim
@@ -239,6 +252,7 @@ F
 * floating: kayan
 * fold: kat
 * forward: ileriye doğru
+* **forward pass: doğrudan geçiş**
 * **framework: çatı**
 * frontal: cepheden
 * **full precision: tam hassasiyet**
@@ -255,6 +269,7 @@ G
 * geodesic: yerölçümsel
 * **global optimum: mutlak en iyi**
 * gradient: eğim
+* **gradient boosting: gradyan artırma**
 * **gradient descend: gradyan inişi**
 * graph: çizge
 * graphical: çizgesel
@@ -264,6 +279,7 @@ G
 
 H
 * **half precision: yarım hassasiyet**
+* **handcrafted: el yapımı**
 * hard: keskin
 * hash table: anahtarlı çizelge
 * heuristics: sezgi
@@ -284,6 +300,7 @@ I
 * if-then: eğer-ise
 * iid: bağımsız ve özdeşçe dağılmış
 * ill-posed: kötü konumlanmış
+* **implement: uygulamak**
 * impurity: katışıklık
 * imputation: yükleme
 * incremental: artımlı
@@ -298,10 +315,12 @@ I
 * information: bilgi
 * inhibition: ketleme
 * initial: ilk
+* **initialization: başlatma**
 * inner product: iç çarpım
 * input: girdi
 * instance: örnek
 * instantiate: somutlaşmak
+* **intelligence: zeka**
 * interaction: etkileşim
 * internal: iç
 * interpolate: ara değerlemek
@@ -317,6 +336,7 @@ J
 
 * jobshop: sipariş
 * joint: birleşik
+* **joint space: birleşik alan**
 * jump: sıçrama
 * junction: kavşak
 
@@ -331,6 +351,8 @@ K
 
 L
 
+* **label: etiket**
+* **landmark: işaret**
 * **landmark detection: karakteristik nokta saptama**
 * latent: saklı
 * lateral: yanal
@@ -338,6 +360,8 @@ L
 * layer: katman
 * leader cluster: önder öbekleme
 * leaf: yaprak
+* **leaky: sızan**
+* **learning rate: öğrenme oranı**
 * leave-one-out: birini dışarıda bırak
 * level: düzey
 * lift of an association rule: etki ilişkilendirme kuralı
@@ -356,6 +380,7 @@ L
 * **LTSM: long short term memory**
 * loop: döngü
 * loss: yitim
+* **loss function: yitim fonksiyonu**
 
 M  
 
@@ -400,6 +425,7 @@ N
 *  naive: saf
 *  negative: eksi
 *  network: ağ
+* **neural: sinir**
 *  neuron: sinir hücresi
 *  node: düğüm
 *  noise: gürültü
@@ -428,11 +454,13 @@ O
 *  online: çevrimiçi
 *  on-policy: politikalı
 *  optimal: en iyi
+* **optimizer: iyileştirici**
 *  optimization: iyileme
 *  or: veya
 *  order of a polynomial: çokterimlinin derecesi
 *  order statistics: sıra istatistikleri
 *  origin of axes: eksenlerin sıfır noktası
+* **orthogonal: dikey**
 *  oscillate: salınım
 *  outcome: sonuç
 *  outlier: aykırı
@@ -447,6 +475,7 @@ P
 *  pairwise: ikili
 *  parallel: koşut
 *  parametric: dağılıma bağlı
+* **parent: ebeveyn**
 *  parent node: ebeveyn düğüm
 *  parity: eşlik
 *  partial: kısmi, kısmen
@@ -455,6 +484,7 @@ P
 *  pattern: örüntü
 *  pedigree: soy
 *  perceptron: algılayıcı
+* **parsing: ayrıştırma**
 *  performance: başarım
 * **perplexity: karışıklık**
 *  phone: sesbirimcik
@@ -509,17 +539,19 @@ Q
 *  quadratic: karesel, ikinci dereceden
 *  quantization: nicemleme
 *  query: sorgu
- 
+
 R  
 
 *  radial: dairesel
 *  random: rastgele
 *  random: rastsal
 * **random forest: rastgele değişken**
+* **random initialization: rastgele başlatma**
 *  randomization: rastsalla¸stırma
 *  range: açıklık
 *  rank of a matrix: dizeyin kertesi
 *  rank test: sıra sınaması
+* **rate: oran**
 *  real-time: gerçek zamanlı
 *  reasoning: akıl yürütme
 *  recall: anma
@@ -528,7 +560,8 @@ R
 *  reciprocal: ters
 *  recognition: tanıma
 *  reconstruction: geri çatma
-* **rectified linear unit: doğrultulmuş lineer ünite**
+* **rectified linear: doğrultulmuş doğrusal**
+* **rectified linear unit: doğrultulmuş doğrusal ünite**
 * **RELU: rectified linear unit**
 *  recurrent: özyineli
 *  recursive: özçağrılı
@@ -567,6 +600,7 @@ S
 *  scatter: saçılım
 *  scene: görüntü
 *  schedule: zaman çizelgesi
+* **scrapping: hurdaya ayırmak**
 *  scree: kayşat
 *  search: arama
 *  section: bölüm
@@ -597,6 +631,7 @@ S
 *  soft: eşiksiz
 *  softmax function: eşiksiz en büyük işlevi
 *  sort: sıralamak
+* **source code: kaynak kod**
 *  spam: istenmeyen elektronik posta
 *  span: kapsamak
 *  sparse: seyrek
@@ -629,6 +664,7 @@ S
 *  sum-product: toplam çarpım
 *  supervised: gözetimli
 *  support: destek
+* **support vector machines: destek vektör makinası**
 *  surface: yüzey
 *  switching: geçişli
 *  symbol: simge
@@ -637,6 +673,7 @@ S
 *  synchronization: eşzamanlama
 *  system: dizge
 * **squashing function: sıkıştırma fonksiyonu**
+* **SVM: Support vector machine**
 
 T
 
@@ -656,6 +693,8 @@ T
 * **tutorial: eğitim dokümanları**
 *  trace: iz
 *  trade-off: ödünleşim
+* **train: eğitim**
+* **train set: eğitim seti**
 *  trajectory: gezinge
 *  transcribe: çevriyazmak
 *  transition: geçiş
@@ -680,7 +719,7 @@ U
 V  
 
 *  validation: geçerleme
-* **vanishing gradient: kaybolan eğim** 
+* **vanishing gradient: kaybolan eğim**
 *  variance: değişinti
 *  variational: değişimsel
 *  vector: yöney
