@@ -60,6 +60,7 @@ B
 * binary: ikili
 * binding: değer atama
 * binomial: binom
+* **block chain: blok zinciri**
 * biometrics: biyometri
 * blocking: bölükleme
 * boolean: mantıksal
@@ -154,6 +155,8 @@ D
 * decomposition: ayrışım
 * decremental: azalımlı
 * dendrogram: ağaç çizit
+* **dense: yoğun**
+* **dense layer: yoğun katman**
 * **deep learning: derin öğrenme**
 * **deep: derin**
 * density: yoğunluk
@@ -181,6 +184,7 @@ D
 * discrete: kesikli
 * discretization: kesiklileştirme
 * discriminant: ayırtaç
+* **disparity: eşitsizlik**
 * distance: uzaklık
 * distributed: dağıtık
 * distribution: dağılım
@@ -248,6 +252,7 @@ F
 * **fine grained: ince taneli**
 * finite horizon: sonlu serüven
 * fit: oturtma, uydurma
+* **flatten: düzleştirmek**
 * flexible: esnek
 * floating: kayan
 * fold: kat
@@ -276,6 +281,7 @@ G
 * greedy: açgözlü
 * **ground truth: gerçek referans değer**
 * group: öbek
+* **GPU: graphic process unit**
 
 H
 * **half precision: yarım hassasiyet**
@@ -399,6 +405,7 @@ M
 * **mean average precision: ortalama hassasiyet**
 *  measure: ölçüt
 *  mechanism: düzenek
+* **machine learning: makine öğrenmesi**
 *  meiosis: eşeyli bölünme
 *  membership: üyelik
 *  memory: bellek
@@ -464,6 +471,7 @@ O
 *  oscillate: salınım
 *  outcome: sonuç
 *  outlier: aykırı
+* **overfit: aşırı**
 *  overfitting: aşırı öğrenme
 *  overtraining: aşırı eğitme
 
@@ -492,6 +500,7 @@ P
 *  phylogenetic tree: soy ağacı
 *  piecewise: parçalı
 *  pixel: imge noktası
+* **placeholder: yer turucu**
 *  plasticity: yoğrukluk
 *  plate: tabaka
 *  plot: çizim
@@ -662,11 +671,13 @@ S
 *  subset: altküme
 *  subspace: altuzay
 *  sum-product: toplam çarpım
+* **supervised learning: gözetimli öğrenme**
 *  supervised: gözetimli
 *  support: destek
 * **support vector machines: destek vektör makinası**
 *  surface: yüzey
 *  switching: geçişli
+* **syntax: yazım biçimi**
 *  symbol: simge
 *  symmetric: bakı¸sımlı
 *  symptom: belirti
