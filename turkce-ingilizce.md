@@ -415,11 +415,13 @@ M-N
 *  mantıksal: Boolean
 *  menteşe yitimi: hinge loss
 *  merkezi limit kuramı: central limit theorem
+* **metin sınıflandırma: text classification**
 *  model: model
 *  model varsayımı: inductive bias
 * **mutlak en iyi: global optimum**
 *  neden: cause
 *  nedensel: causal
+* **nesne tanıma: object detection**
 *  nicemleme: quantization
 *  normal: normal
 *  normalleştirme: normalization
@@ -467,6 +469,7 @@ O-Ö
 *  özilişkilendirici: autoassociator
 *  öznitelik: attribute or feature
 * **öznitelik temsili: feature representation**
+* **öznitelik çıkarımı: feature selection**
 *  özörgütlemeli: self-organizing
 *  özyineli: recurrent
 *  özyöney: eigenvector
@@ -565,6 +568,7 @@ T
 *  tavlamak: anneal
 *  teğet: tangent
 *  tek değişkenli: univariate
+* **tek katmanlı algılayıcılar: single layer neural networks**
 * **tek tip yapma: standardization**
 *  tek yanlı: one-sided
 *  tekdüze dağılım: uniform distribution
