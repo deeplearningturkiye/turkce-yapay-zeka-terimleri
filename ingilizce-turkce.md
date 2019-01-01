@@ -246,6 +246,7 @@ F
 * factorial: etkensel
 * feature: öznitelik
 * **feature representation: öznitelik temsili**
+* **feature selection: öznitelik çıkarımı**
 * feedforward: ileriye doğru
 * figure: şekil
 * filter: süzgeç
@@ -450,6 +451,7 @@ N
 O  
 
 *  oblique: yatık
+* **object detection: nesne tanıma**
 *  observable: gözlenebilir
 *  observation: gözlem
 *  occam’s razor: occam’ın usturası
@@ -632,6 +634,7 @@ S
 *  significance: anlamlılık
 *  simulation: benzetim
 *  simultaneous: eş zamanlı
+* **single layer neural networks: tek katmanlı algılayıcılar**
 *  singly connected: tekli bağlı
 *  singular: tekil
 *  slack variable: artık değişken
@@ -695,6 +698,7 @@ T
 *  term: terim
 *  terminal: uç
 *  test: sınama
+* **text classification: metin sınıflandırma**
 *  theory: kuram
 *  threshold: eşik
 *  time delay: zaman gecikmeli
