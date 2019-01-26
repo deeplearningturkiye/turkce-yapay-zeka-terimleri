@@ -535,6 +535,7 @@ S-Ş
 *  simge: symbol
 *  sinir hücresi: neuron
 *  sipariş: jobshop
+*  **sohbot: chatbot**
 *  somutlaşmak: instantiate
 *  sonlu serüven: finite horizon
 * **sonlu tamamlayıcı: cofinite**
