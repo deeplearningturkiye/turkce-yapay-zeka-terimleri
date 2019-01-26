@@ -83,6 +83,7 @@ C
 * chain: zincir
 * chapter: bölüm
 * characterize: betimlemek
+* **chatbot: sohbot**
 * chi-square: ki kare
 * city-block distance: şehir içi uzaklık
 * class: sınıf
