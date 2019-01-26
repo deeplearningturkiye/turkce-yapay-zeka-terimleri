@@ -28,6 +28,14 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 ÖNERİ: `kapsül`
 
+## chatbot
+- [ ] TÜBA
+- [ ] TDK
+
+Prof.Dr.Cem SAY tarafından "50 Soruda Yapay Zeka" kitabında chatbotlar yerine önerdiği kelimedir.
+
+ÖNERİ: `sohbot`
+
 ## computer vision
 - [x] TÜBA
 - [ ] TDK
