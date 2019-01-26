@@ -32,7 +32,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TÜBA
 - [ ] TDK
 
-Prof.Dr.Cem SAY tarafından "50 Soruda Yapay Zeka" kitabında chatbotlar yerine önerdiği kelimedir.
+Prof.Dr.Cem SAY tarafından "50 Soruda Yapay Zeka" kitabında chatbotlar yerine önerilmiştir.
 
 ÖNERİ: `sohbot`
 
