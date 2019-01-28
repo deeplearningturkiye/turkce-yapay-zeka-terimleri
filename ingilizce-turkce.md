@@ -22,6 +22,7 @@ A
 * analyzer: çözümleyici
 * ancestor: ata
 * anchor: çapa
+* **anchor box: çapa kutusu**
 * and: ve
 * anneal: tavlamak
 * approximate: yaklaşık
@@ -38,11 +39,13 @@ A
 * autoassociator: özilişkilendirici
 * **autoencoder: otokodlayıcı**
 * automaton: özdevinir
+* **axial: eksen**
 * axiom: belit
 
 B
 
 * backup: geriye taşıma
+* **backbone: omurga**
 * **backpropogation: geri yayılım**
 * backward: geriye doğru
 * bag of words: sözcük torbası
@@ -52,10 +55,14 @@ B
 * basket: sepet
 * batch: toptan
 * bayesian: bayesçi
+* **beam: ışın**
+* **beam search: ışın araması**
 * belief: inanç
 * benchmark: denek
+* **best first search: en iyi ilk arama**
 * bias: yanlılık
 * bias unit: ek girdi
+* **big data: büyük veri**
 * bin: kutucuk
 * binary: ikili
 * binding: değer atama
@@ -64,10 +71,13 @@ B
 * biometrics: biyometri
 * blocking: bölükleme
 * boolean: mantıksal
+* **boosting: yükseltmek**
 * bootstrap: rastgele örnekleme
+* **boundary: sınır**
 * **bounding box: sınırlayıcı kutu**
 * branch and bound: dallan ve sınırla
 * breadth-first: genişlik öncelikli
+* **buffer: tampon**
 * bump: tümsek
 
 C
@@ -79,8 +89,10 @@ C
 * case-based: örnek tabanlı
 * causal: nedensel
 * cause: neden
+* **cell: hücre**
 * central: limit theorem merkezi limit kuramı
 * chain: zincir
+* **channel: kanal**
 * chapter: bölüm
 * characterize: betimlemek
 * **chatbot: sohbot**
@@ -95,8 +107,11 @@ C
 * code: gizyazı
 * codebook: vector gizyazı yöneyi
 * **cofinite: sonlu tamamlayıcı**
-* **collaborative filtering: işbirlikçi filtreleme**
+* **collaborative filtering: işbirlikçi süzme**
 * column: sütun
+* **color channel: renk kanalı**
+* **concatanate: bağlamak**
+* **condition: durum**
 * combination: birleşim
 * competitive: yarışmacı
 * complement: tümleyen
@@ -111,10 +126,12 @@ C
 * conditional: independence koşullu bağımsızlık
 * confidence: güven+
 * confusion matrix: hata dizeyi
+* **confusion: karışıklık**
 * conjugate: eşlenik
 * connected graph: bağlı çizge
 * connection: bağlantı
 * connectivity: bağlantısallık
+* **consequence: netice**
 * constant: sabit
 * contingency table: olumsallık çizelgesi
 * contour: çevrit
@@ -126,9 +143,12 @@ C
 * **convolutional neural networks: evrişimli sinir ağları**
 * cooperative: işbirlikçi
 * coordinates: eksen değerleri
+* **coronal: koronal**
+* **corporate: toplu**
 * correction: düzeltme
 * correlation: ilinti
 * cost: bedel
+* **cost function: maliyet fonksiyonu**
 * count: sayım
 * coupled: bağlı
 * covariance: eşdeğişinti
@@ -148,6 +168,7 @@ C
 D
 * **data augmentation: veri artırma**
 * **data mining: veri madenciliği**
+* **data science: veri bilimi**
 * dataset: veri kümesi
 * decay: sönüm
 * decision: karar
@@ -155,10 +176,12 @@ D
 * decoder: gizçözer
 * decomposition: ayrışım
 * decremental: azalımlı
+* **def: python fonksiyon tanımı**
 * dendrogram: ağaç çizit
 * **dense: yoğun**
 * **dense layer: yoğun katman**
 * **deep learning: derin öğrenme**
+* **deep learning Türkiye: derin öğrenme Türkiye**
 * **deep: derin**
 * density: yoğunluk
 * **depth: derinlik**
@@ -166,6 +189,7 @@ D
 * descendant: soyundan gelen
 * description: betimleme
 * **desicion tree: karar ağacı**
+* **decision boundary: karar sınırı**
 * design: tasarım
 * detail: ayrıntı
 * detection: sezim
@@ -237,6 +261,10 @@ E
 * experiment: deney
 * expert: uzman
 * explaining away: örtbas etmek
+* **exploding: patlamak**
+* **exploding gradient: patlayan gradyan**
+* **explicit regression: açık regresyon**
+* **experiment: deney**
 * expression: bildirim
 * extraction: çıkarım
 * extrapolation: dışdeğerleme
@@ -246,11 +274,13 @@ F
 * factor: çarpan veya etken
 * factorial: etkensel
 * feature: öznitelik
+* **feature map: özellik haritası**
 * **feature representation: öznitelik temsili**
 * **feature selection: öznitelik çıkarımı**
 * feedforward: ileriye doğru
 * figure: şekil
 * filter: süzgeç
+* **filtering: süzme**
 * **fine grained: ince taneli**
 * finite horizon: sonlu serüven
 * fit: oturtma, uydurma
@@ -261,23 +291,30 @@ F
 * forward: ileriye doğru
 * **forward pass: doğrudan geçiş**
 * **framework: çatı**
+* **frame: çerçeve**
 * frontal: cepheden
 * **full precision: tam hassasiyet**
 * function: işlev
 * fusion: kaynaştırma
 * fuzzy: bulanık
+* **fully: tamamen**
 
 G
 * **GAN: Generative Adversarial Network**
+* **gated recurrent unit: geçitli tekrarlayan ünite**
 * generalization: genelleme
 * generative: üretici
+* **Generative adversarial: çekişmeli üretici **
 * **Generative Adversarial Networks: çekişmeli üretici ağlar**
+* **generative learning: üretici öğrenme**
+* **generative model: üretici model**
 * generic: genel
 * geodesic: yerölçümsel
 * **global optimum: mutlak en iyi**
 * gradient: eğim
 * **gradient boosting: gradyan artırma**
-* **gradient descend: gradyan inişi**
+* **gradient descent: gradyan inişi**
+* **gradient ascent: gradyan çıkışı**
 * graph: çizge
 * graphical: çizgesel
 * greedy: açgözlü
@@ -290,8 +327,11 @@ H
 * **handcrafted: el yapımı**
 * hard: keskin
 * hash table: anahtarlı çizelge
+* **heuristic: sezgisel**
+* **heuristic search techniques: sezgisel arama teknikleri**
 * heuristics: sezgi
 * hidden: saklı
+* **hidden layer: saklı katman**
 * hierarchical: ağaç yapılı
 * higher-order: üst düzey
 * hinge loss: menteşe yitimi
@@ -299,6 +339,7 @@ H
 * histogram: çubuk,çizit
 * hybrid: karma
 * hyper: üstün
+* **hyper parameter: üst değişken**
 * **hyperparameter: üst değişken**
 * hypothesis: denence
 
@@ -308,6 +349,7 @@ I
 * if-then: eğer-ise
 * iid: bağımsız ve özdeşçe dağılmış
 * ill-posed: kötü konumlanmış
+* **image captioning: resim yazısı**
 * **implement: uygulamak**
 * impurity: katışıklık
 * imputation: yükleme
@@ -324,8 +366,10 @@ I
 * inhibition: ketleme
 * initial: ilk
 * **initialization: başlatma**
+* **initializer: başlatıcı**
 * inner product: iç çarpım
 * input: girdi
+* **input feature map: girdi özelliği haritası**
 * instance: örnek
 * instantiate: somutlaşmak
 * **intelligence: zeka**
@@ -364,12 +408,14 @@ L
 * **landmark detection: karakteristik nokta saptama**
 * latent: saklı
 * lateral: yanal
+* **latent variable: gizli değişken**
 * lattice: kafes
 * layer: katman
 * leader cluster: önder öbekleme
 * leaf: yaprak
 * **leaky: sızan**
 * **learning rate: öğrenme oranı**
+* **least squared error: en küçük kare hatası**
 * leave-one-out: birini dışarıda bırak
 * level: düzey
 * lift of an association rule: etki ilişkilendirme kuralı
@@ -392,7 +438,9 @@ L
 
 M  
 
+* **machine vision: makine görüsü**
 *  majority: çoğunluk
+* **malign: kötücül**
 *  map: harita
 *  mapping: eşleme
 *  margin: kenar payı
@@ -408,6 +456,7 @@ M
 *  measure: ölçüt
 *  mechanism: düzenek
 * **machine learning: makine öğrenmesi**
+* **ML: Machine Learning**
 *  meiosis: eşeyli bölünme
 *  membership: üyelik
 *  memory: bellek
@@ -435,9 +484,11 @@ N
 *  negative: eksi
 *  network: ağ
 * **neural: sinir**
+* **neural networks: sinir ağları**
 *  neuron: sinir hücresi
 *  node: düğüm
 *  noise: gürültü
+* **nominal: göstermelik**
 *  nonlinear: doğrusal olmayan
 *  nonnegative: eksi olmayan
 *  nonparametric: dağılımdan bağımsız
@@ -463,12 +514,14 @@ O
 *  one-sided: tek yanlı
 *  online: çevrimiçi
 *  on-policy: politikalı
+* **open source: açık kaynak**
 *  optimal: en iyi
 * **optimizer: iyileştirici**
 *  optimization: iyileme
 *  or: veya
 *  order of a polynomial: çokterimlinin derecesi
 *  order statistics: sıra istatistikleri
+* **ordinal: sıra**
 *  origin of axes: eksenlerin sıfır noktası
 * **orthogonal: dikey**
 *  oscillate: salınım
@@ -490,6 +543,7 @@ P
 *  parent node: ebeveyn düğüm
 *  parity: eşlik
 *  partial: kısmi, kısmen
+* **Part-Of-Speech: konuşmanın bölümü**
 *  passive: edilgen
 *  path: yol
 *  pattern: örüntü
@@ -497,6 +551,7 @@ P
 *  perceptron: algılayıcı
 * **parsing: ayrıştırma**
 *  performance: başarım
+* **peritumoral: timör çevresi**
 * **perplexity: karışıklık**
 *  phone: sesbirimcik
 *  phoneme: sesbirim
@@ -528,7 +583,9 @@ P
 * **predictor: bağımsız değişken**
 *  prediction: öngörü
 *  predictive: öngörücü
+* **predictive learning: öngörü öğrenme**
 *  prepruning: erken budama
+* **pretrain: ön eğitim**
 *  primal: asal
 *  principal: temel
 *  principle: ilke
@@ -576,6 +633,7 @@ R
 * **rectified linear unit: doğrultulmuş doğrusal ünite**
 * **RELU: rectified linear unit**
 *  recurrent: özyineli
+* **recurrent neural networks: özyineli sinir ağları**
 *  recursive: özçağrılı
 *  redundancy: fazlalık
 *  reference: dayanak
@@ -588,8 +646,10 @@ R
 *  reject: ret
 *  relative: görece
 *  relevance: ilgililik
+* **remote sensing: uzaktan algılama**
 *  replication: çoğaltma
 *  repository: veri tabanı
+* **repository pattern: depo örüntüsü**
 *  representation: gösterim
 *  residual: artık
 *  response: tepki
@@ -619,7 +679,9 @@ S
 *  segmentation: bölütleme
 *  selection: seçim
 *  self-organizing: özörgütlemeli
+* **semantic: anlamsal**
 * **semantics: anlambilim**
+* **semantic segmantation: anlamsal bölümleme**
 *  semiparametric: dağılıma yarı bağlı
 *  sensitivity: duyarlılık
 *  sensor: alıcı
@@ -638,6 +700,7 @@ S
 * **single layer neural networks: tek katmanlı algılayıcılar**
 *  singly connected: tekli bağlı
 *  singular: tekil
+* **skip connection: bağlantıyı atla**
 *  slack variable: artık değişken
 *  smooth: düzleştirme
 *  smoother: düzleştirici
@@ -664,6 +727,7 @@ S
 *  stepsize: adım büyüklüğü
 *  stimulation: dürtü
 *  stochastic: rastgele
+* **stochastic gradient descent: rasgele gradyan inişi**
 *  strategy: yordam
 *  stratification: katmanla¸stırma
 *  stress: gerilim
@@ -677,6 +741,7 @@ S
 *  sum-product: toplam çarpım
 * **supervised learning: gözetimli öğrenme**
 *  supervised: gözetimli
+* **super resolution: süper çözünürlük**
 *  support: destek
 * **support vector machines: destek vektör makinası**
 *  surface: yüzey
@@ -707,12 +772,14 @@ T
 *  topographic: yerbetimsel
 *  topological: ilingesel
 * **tutorial: eğitim dokümanları**
+* **tuning: ayarlama**
 *  trace: iz
 *  trade-off: ödünleşim
 * **train: eğitim**
 * **train set: eğitim seti**
 *  trajectory: gezinge
 *  transcribe: çevriyazmak
+* **transfer learning: öğrenme aktarması**
 *  transition: geçiş
 *  transpose: devrik
 *  traveling salesman: gezgin satıcı
@@ -729,13 +796,17 @@ U
 *  univariate: tek değişkenli
 *  unobservable: gözlenemeyen
 *  unsupervised: gözetimsiz
+* **unsupervised learning: gözetimsiz öğrenme**
 * **up sampling: sık örnekleme**
 *  utility: fayda
 
 V  
 
 *  validation: geçerleme
+* **validation set: doğrulama seti**
+* **validation loss: doğrulama kaybı**
 * **vanishing gradient: kaybolan eğim**
+* **vanishing: yok olmak**
 *  variance: değişinti
 *  variational: değişimsel
 *  vector: yöney
@@ -747,7 +818,9 @@ V
 W
 
 * weight: ağırlık
+* **weight decay: kilo kaybı**
 * winner-take-all: kazanan hepsini alır
+* **word embedding: kelime gömme**
 * wrapper: dürümcü
 
 X  
