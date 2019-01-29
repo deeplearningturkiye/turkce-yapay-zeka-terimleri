@@ -677,6 +677,7 @@ V
 
 *  ve: and
 *  ve ötekiler: et al
+* **veri ambarı: data warehouse**
 * **veri artırma: data augmentation**
 * **veri bilimi: data science**
 *  veri kümesi: dataset
