@@ -168,6 +168,7 @@ C
 D
 * **data augmentation: veri artırma**
 * **data mining: veri madenciliği**
+* **data warehouse: veri ambarı**
 * **data science: veri bilimi**
 * dataset: veri kümesi
 * decay: sönüm
