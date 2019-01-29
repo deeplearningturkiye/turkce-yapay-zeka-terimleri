@@ -75,6 +75,11 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: veri artırma
 
+## disparity
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: farklılık,uyumsuzluk
 
 ## dropout
 - [x] TÜBA
