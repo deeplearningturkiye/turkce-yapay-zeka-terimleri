@@ -16,6 +16,7 @@ A
 *  akan: running
 *  akıl: yürütme: reasoning
 *  alan: region
+* **algı: perception**
 *  algı alanı: receptive field
 *  algılayıcı: perceptron
 *  algoritma: algorithm
@@ -34,6 +35,7 @@ A
 *  ara değerlemek: interpolate
 *  aralık: interval
 *  arama: search
+* **araştırma: research**
 *  ardışık: cascade
 *  artçı: posthoc
 *  artı: positive
@@ -95,6 +97,8 @@ B
 *  birleştirmeli: agglomerative
 *  biyometri: biometrics
 *  boyut: dimension
+* **boyut uzayı: dimension space**
+* **boyutlu: dimensional**
 *  bölme: split
 *  bölmeli: divisive
 *  bölükleme: blocking
@@ -114,6 +118,7 @@ C-Ç
 * **çapa kutusu: anchor box**
 *  çapraz düzensizlik: cross-entropy
 *  çapraz geçerleme: cross-validation
+* **çapraz katman doğrulama: cross fold validation**
 *  çarpan: factor
 * **çerçeve: frame**
 * **çatı: framework**
@@ -123,6 +128,7 @@ C-Ç
 *  çekirdek: kernel
 *  çekirdekleme: kernelization
 *  çeşitlilik: diversity
+* **çeşitli: varius**
 *  çevrim: cycle
 *  çevrimdışı: offline
 *  çevrimiçi: online
@@ -142,7 +148,9 @@ C-Ç
 *  çok aşamalı: multistage
 *  çok boyutluluğun laneti: curse of dimensionality
 *  çok: değişkenli: multivariate
+* **çok katmanlı: multi layer**
 * **çok katmanlı algılayıcı: multi layer perceptron**
+* **çok sınıflı: multiclass**
 *  çoklu: multiple
 *  çoklu ağaç: polytree
 *  çoklu ayırıcı: polychotomizer
@@ -162,16 +170,20 @@ D
 *  dağılımdan: bağımsız: nonparametric
 *  dağıtık: distributed
 *  dairesel: radial
+* **dairesel tabanlı fonksiyon: radial basis function**
 *  dallan ve sınırla: branch and bound
 *  dayanak: reference
 *  değer atama: binding
 *  değerlendirme: evaluation
+* **değerlendirme metriği: evaluation metric**
+* **değerlendirme metrikleri: evaluation metrics**
 *  değişimsel: variational
 *  değişinti: variance
 *  değişmezlik: invariance
 *  denek: benchmark
 *  denence: hypothesis
 *  deney: experiment
+* **dengesiz: unbalanced**
 *  denklem: equation
 *  derece çokterimlinin: order of a polynomial
 * **derin: deep**
@@ -191,6 +203,7 @@ D
 * **doğrulama seti: validation set**
 * **doğrulama kaybı: validation loss**
 * **doğrultulmuş lineer ünite: rectified linear unit**
+* **doğruluk puanı: accuracy score**
 *  doğrusal: linear
 * **doğrusal saptama: lineer regression**
 *  doğrusal olmayan: nonlinear
@@ -235,6 +248,8 @@ E
 *  en iyi: optimal
 * **en iyi ilk arama: best first search**
 *  en yakın k komşu: k-nearest neighbor
+* **en yakın komşular: nearest neighbours**
+* **en yakın komşu: nearest neighbour**
 *  erişim: retrieval
 *  erken budama: prepruning
 *  esnek: flexible
@@ -307,6 +322,7 @@ G
 *  gölgeli: shaded
 *  gömme: embedding
 *  görece: relative
+* **görev: task**
 *  görüntü: scene
 *  gösterge: indicator
 * **göstermelik: nominal**
@@ -370,6 +386,7 @@ I-İ
 *  istenmeyen elektronik posta: spam
 *  işaret: sign
 *  işbirlikçi: cooperative
+* **işitsel: auditory**
 *  işlev: function
 *  iyileme: optimization
 *  iz: trace
@@ -403,6 +420,7 @@ K
 *  kat ışıklık: impurity
 *  katlıterimli dağılım: multinomial distribution
 *  katman: layer
+* **kat kat olmuş: stratified**
 *  katmanlaştırma: stratification
 * **kaybolan eğim: vanishing gradient**
 *  kavşak: junction
@@ -447,15 +465,18 @@ K
 
 M-N
 
+* **makale: paper**
 * **makine görüsü: machine vision**
 * **mailyet fonksiyonu: cost function**
 *  mantıksal: Boolean
 *  menteşe yitimi: hinge loss
 *  merkezi limit kuramı: central limit theorem
 * **metin sınıflandırma: text classification**
+* **meydan okuma: challenge**
 *  model: model
 *  model varsayımı: inductive bias
 * **mutlak en iyi: global optimum**
+* **müzik bilgisi alımı: music information retrieval**
 *  neden: cause
 *  nedensel: causal
 * **nesne tanıma: object detection**
@@ -473,6 +494,7 @@ O-Ö
 *  olasılık: probability
 *  olasılıksal: probabilistic
 *  olumsallık çizelgesi: contingency table
+* **oluşturulan: generated**
 * **omurga: backbone**
 *  ortalama: mean
 * **ortalama hassasiyet: mean average**
@@ -498,16 +520,19 @@ O-Ö
 *  önsel: prior
 *  örnek: example or instance
 * **örnekleme: pooling**
+* **örneklenmiş: sampled**
 *  örnek program: pseudocode
 *  örnek tabanlı: case-based
 *  örneklemek: sample
 *  örtbas etmek: explaining away
 *  örtülü: occluded
 *  örüntü: pattern
+* **örüntü tanıma: pattern recognition**
 *  özçağrılı: recursive
 * **özellik haritası: feature map**
 *  özdeş: identical
 *  özdevinir: automaton
+* **özellik uzayı: feature space**
 *  özgül: specific
 *  özgüllük: specificity
 *  özilişkilendirici: autoassociator
@@ -537,6 +562,7 @@ P-R
 *  rastsal: random
 *  rastsallaştırma: randomization
 * **renk kanalı: color channel**
+* **resim tanıma: image recognition**
 * **resim yazısı: image captioning**
 *  ret: reject
 *  risk: risk
@@ -709,6 +735,8 @@ Y
 * **yerel minimum: local minimum**
 *  yerölçümsel: geodesic
 * **yerini saptama: localization**
+* **yığın: stack**
+* **yığılmış: stacked**
 *  yıkma: stacking
 *  yineleme: iteration
 *  yitim: loss

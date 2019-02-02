@@ -3,6 +3,7 @@ A
 * **advertisal network: rakip ağ**
 * **AI: artificial intelligence**
 * **accuracy: doğruluk**
+* **accuracy score: doğruluk puanı**
 * action: eylem
 * activation: etkilenim
 * **activation function: etkilenim fonksiyonu**
@@ -34,6 +35,7 @@ A
 * **artificial neural networks: yapay sinir ağları**
 * association: ilişkilendirme
 * attribute: öznitelik
+* **auditory: işitsel**
 * augmented: genişletilmiş
 * authentication: kimlik doğrulama
 * autoassociator: özilişkilendirici
@@ -92,6 +94,7 @@ C
 * **cell: hücre**
 * central: limit theorem merkezi limit kuramı
 * chain: zincir
+* **challenge: meydan okuma**
 * **channel: kanal**
 * chapter: bölüm
 * characterize: betimlemek
@@ -158,7 +161,10 @@ C
 * criterion: kıstas
 * critic: eleştirmen
 * cross-entropy: çapraz düzensizlik
+* **cross entropy: çapraz düzensizlik**
 * cross-validation: çapraz geçerleme
+* **cross validation: çapraz geçerleme**
+* **cross fold validation: çapraz katman doğrulama**
 * cumulative distribution: birikimli dağılım
 * curse of dimensionality: çok boyutluluğun laneti
 * curvature: eğrilik
@@ -204,6 +210,8 @@ D
 * diffusion: yayınım
 * dilemma: ikilem
 * dimension: boyut
+* **dimension space: boyut uzayı**
+* **dimensional: boyutlu**
 * directed: yönlü
 * discontinuity: süreksizlik
 * discount: indirim
@@ -252,6 +260,8 @@ E
 * et al: ve ötekiler
 * euclidean distance: öklid uzaklığı
 * evaluation: değerlendirme
+* **evaluation metric: değerlendirme metriği**
+* **evaluation metrics: değerlendirme metrikleri**
 * evidence: kanıt
 * exact: kesin
 * example: örnek
@@ -278,6 +288,7 @@ F
 * **feature map: özellik haritası**
 * **feature representation: öznitelik temsili**
 * **feature selection: öznitelik çıkarımı**
+* **feature space: özellik uzayı**
 * feedforward: ileriye doğru
 * figure: şekil
 * filter: süzgeç
@@ -304,6 +315,7 @@ G
 * **GAN: Generative Adversarial Network**
 * **gated recurrent unit: geçitli tekrarlayan ünite**
 * generalization: genelleme
+* **generated: oluşturulan**
 * generative: üretici
 * **Generative adversarial: çekişmeli üretici **
 * **Generative Adversarial Networks: çekişmeli üretici ağlar**
@@ -351,6 +363,7 @@ I
 * iid: bağımsız ve özdeşçe dağılmış
 * ill-posed: kötü konumlanmış
 * **image captioning: resim yazısı**
+* **image recognition: resim tanıma**
 * **implement: uygulamak**
 * impurity: katışıklık
 * imputation: yükleme
@@ -472,7 +485,10 @@ M
 *  model: model
 *  moralization: ahlaklıla¸stırma
 * **multi layer perceptron: çok katmanlı algılayıcı**
+* **multi layer: çok katmanlı**
+* **multiclass: çok sınıflı**
 * **MLP: multi layer perceptron**
+* **music information retrieval: müzik bilgisi alımı**
 *  multinomial distribution: katlıterimli dağılım
 *  multiple: çoklu
 *  multistage: çok aşamalı
@@ -482,6 +498,8 @@ M
 N  
 
 *  naive: saf
+* **nearest neighbour: en yakın komşu**
+* **nearest neighbours: en yakın komşular**
 *  negative: eksi
 *  network: ağ
 * **neural: sinir**
@@ -538,6 +556,7 @@ P
 *  paired: eşli
 *  pairing: eşleme
 *  pairwise: ikili
+* **paper: akademik alanda makale için kullanılır**
 *  parallel: koşut
 *  parametric: dağılıma bağlı
 * **parent: ebeveyn**
@@ -548,8 +567,10 @@ P
 *  passive: edilgen
 *  path: yol
 *  pattern: örüntü
+* **pattern recognition: örüntü tanıma**
 *  pedigree: soy
 *  perceptron: algılayıcı
+* **perception: algı**
 * **parsing: ayrıştırma**
 *  performance: başarım
 * **peritumoral: timör çevresi**
@@ -613,6 +634,7 @@ Q
 R  
 
 *  radial: dairesel
+* **radial basis function: dairesel tabanlı fonksiyon**
 *  random: rastgele
 *  random: rastsal
 * **random forest: rastgele değişken**
@@ -652,6 +674,7 @@ R
 *  repository: veri tabanı
 * **repository pattern: depo örüntüsü**
 *  representation: gösterim
+* **research: araştırma**
 *  residual: artık
 *  response: tepki
 *  retrieval: erişim
@@ -668,6 +691,7 @@ R
 S  
 
 *  sample: örneklemek veya örneklem
+* **sampled: örneklenmiş**
 *  scalar: sayıl
 *  scale: ölçek
 *  scatter: saçılım
@@ -721,10 +745,13 @@ S
 *  split: bölme
 *  spread: yayılım
 *  stable: kararlı
+* **stack: yığın**
+* **stacked: yığılmış**
 * **state of art: güncel olan en iyi durum**
 * **standardize: belirli bir forma getirmek**
 * **standardization: tek tip yapma**
 *  stacking: yığma
+* **stratified: kat kat olmuş**
 *  stepsize: adım büyüklüğü
 *  stimulation: dürtü
 *  stochastic: rastgele
@@ -760,6 +787,7 @@ T
 
 *  table: çizelge
 *  tangent: teğet
+* **task: görev**
 *  template: şablon
 *  temporal: zamansal
 *  term: terim
@@ -790,6 +818,7 @@ T
 U  
 
 *  unbiased: yansız
+* **unbalanced: dengesiz**
 *  unconstrained: kısıtlanmamış
 *  underfitting: eksik öğrenme
 *  unfold: açılmış
@@ -810,6 +839,7 @@ V
 * **vanishing: yok olmak**
 *  variance: değişinti
 *  variational: değişimsel
+* **varius: çeşitli**
 *  vector: yöney
 *  version: sürüm
 *  vigilance: tetiklik
