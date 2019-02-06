@@ -646,7 +646,7 @@ R
 * **rate: oran**
 *  real-time: gerçek zamanlı
 *  reasoning: akıl yürütme
-*  recall: anma
+*  recall: duyarlılık
 *  receiver: alıcı
 *  receptive field: algı alanı
 *  reciprocal: ters
