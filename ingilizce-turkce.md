@@ -418,7 +418,7 @@ K
 L
 
 * **label: etiket**
-* **landmark: işaret**
+* **landmark: karakteristik nokta**
 * **landmark detection: karakteristik nokta saptama**
 * latent: saklı
 * lateral: yanal
