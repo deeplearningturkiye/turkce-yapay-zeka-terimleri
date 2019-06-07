@@ -13,7 +13,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 **Encoder** kelimesinin TDK sözlüğünde karşılığı **kodlayıcı** olarak belirtilmektedir. 
 
-ÖNERİ: kendiliğinden kodlayıcı
+ÖNERİ: otokodlayıcı
 
 
 ## bounding box
