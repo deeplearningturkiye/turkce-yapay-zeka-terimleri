@@ -475,7 +475,7 @@ L
 * **logistic regression: yapısal bağıntı**
 * logit: ters s
 * **long short term memory: uzun-kısa vadeli bellek**
-* **LTSM: long short term memory**
+* **LSTM: long short term memory**
 * loop: döngü
 * loss: yitim
 * **loss function: yitim fonksiyonu**
