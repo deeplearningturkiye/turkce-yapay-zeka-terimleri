@@ -125,7 +125,7 @@ Topluluk metotları, bir optimal tahmin modelini üretmek için birkaç temel mo
 
 **feature** TDK'da **özellik** TÜBA'da ise **öznitelik** olarak çevrilmiştir.
 
-ÖNERİ: `öznitelik sunumu`
+ÖNERİ: `öznitelik sunumu`, öznitelik temsili
 
 ## feed-forward
 - [ ] TÜBA
@@ -181,7 +181,7 @@ Gradyan(yön türevi): Artımın en çok olduğu yere doğru yönelmiş bir vekt
 
 Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlevinin gradyanının **olumsuzuyla** orantılı adımlar atılır.
 
-ÖNERİ:'Geçişli İniş'
+ÖNERİ:'Geçişli İniş', yokuş adımlama
 
 ## ground truth 
 - [ ] TÜBA
@@ -202,7 +202,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlev
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: Üst değişken
+ÖNERİ: Üst değişken, yüksek değişken
 
 ## landmark detection 
 - [x] TÜBA
@@ -213,6 +213,8 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlev
 ## latent concept 
 - [ ] TÜBA
 - [ ] TDK
+
+ÖNERİ: dolaylı değişken
 
 ## lasso regression
 - [ ] TÜBA
@@ -284,7 +286,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlev
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ:karışıklık
+ÖNERİ:karışıklık, tümel bilgi
 
 ## pooling
 - [x] TÜBA
@@ -299,7 +301,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlev
 
  **predictor** TDK'da **yordamlayıcı** TÜBA'da **bağımsız değişken** şeklinde çevrilmiştir.
  
- ÖNERİ: `bağımsız değişken` 
+ ÖNERİ: `bağımsız değişken`
 
 
 
@@ -320,7 +322,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlev
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: bayır bağıntı
+ÖNERİ: bayır bağıntı, hamak bağıntı
 
 ## routing-by-agreement
 - [ ] TÜBA
@@ -332,7 +334,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlev
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: 'güncel olan en iyi durum'
+ÖNERİ: 'güncel olan en iyi durum', son teknoloji
 
 ## stride
 - [ ] TÜBA
@@ -397,7 +399,7 @@ Aşağıdaki sözcük ya da sözcük gruplarının Türkçe karşılıkları sö
 
 **bias** kelimesinin karşılığı TÜBA'da **yanlılık** olarak geçmektedir.
 
-ÖNERİ: yanlılık değeri
+ÖNERİ: yanlılık değeri, yanıltı
 
 
 ## condense
@@ -433,7 +435,7 @@ Aşağıdaki sözcük ya da sözcük gruplarının Türkçe karşılıkları sö
 
 Wikipedia: Belirli bir görev için halihazırda eğitilmiş bir ağ modelini alma ve bunu ikinci bir benzer görevi gerçekleştirmek için kullanma işlemidir.
 
-ÖNERİ: Öğrenme Transferi
+ÖNERİ: Öğrenme Transferi, uyumlama
 
 ## np-complete
 
