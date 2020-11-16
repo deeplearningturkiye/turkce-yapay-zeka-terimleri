@@ -394,7 +394,7 @@ I
 * **implement: uygulamak**
 * impurity: katışıklık
 * imputation: yükleme
-* **inception: basşlangıç**
+* **inception: başlangıç**
 * incremental: artımlı
 * independence: bağımsızlık
 * index: dizin
