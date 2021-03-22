@@ -887,7 +887,7 @@ V
 *  validation: geçerleme
 * **validation set: doğrulama seti**
 * **validation loss: doğrulama kaybı**
-* **vanishing gradient: kaybolan eğim**
+* **vanishing gradient: kaybolan gradyan**
 * **vanishing: yok olmak**
 *  variance: değişinti
 *  variational: değişimsel
